@@ -2,6 +2,7 @@ import sqlalchemy
 from sqlalchemy.orm import Session
 from PeaTMOSS import *
 
+
 ### This demo is an example of how one could use SQLAlchemy to interact with the PeaTMOSS database in order to answer
 ### one of the research questions, in this case question I1: "It can be difficult to interpret model popularity numbers by 
 ### download rates. To what extent does a PTM’s download rates correlate with the number of GitHub projects that rely on it, or 
@@ -10,7 +11,7 @@ from PeaTMOSS import *
 if __name__ == "__main__":
 
     ### When creating an absolute path string, make sure there is a leading forward slash (/)
-    absolute_path = "/scratch/bell/rsashti/sql_db/PeaTMOSS.db" #change this to an appropriate filepath for your directory
+    absolute_path = "D:\PeaTMOSS-Demos\PeaTMOSS_SAMPLE.db\PeaTMOSS_SAMPLE.db" #change this to an appropriate filepath for your directory
     engine = sqlalchemy.create_engine(f"sqlite:///{absolute_path}")
     # relative_path = "PeaTMOSS.db"
     # engine = sqlalchemy.create_engine(f"sqlite:///{relative_path}")
