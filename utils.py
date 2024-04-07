@@ -13,3 +13,6 @@ def fetch_repo_data(owner, repo):
     else:
         print(f"Failed to fetch data: {response.status_code} - {response.text}")
         return None
+    
+if __name__ == '__main__':
+    pass

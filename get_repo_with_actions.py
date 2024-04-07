@@ -19,15 +19,6 @@ auth = Auth.Token(ACCESS_TOKEN)
 # Public Web Github
 g = Github(auth=auth)
 
-#important functions in contentFile ... file.name and file.content for more check #https://github.com/PyGithub/PyGithub/blob/main/github/ContentFile.py
-
-#check for workflow
-#something *test*.yml or *e2e*.yml or *integration*.ymp in workflow
-#check for pyproject.toml file
-#check for setup.py file
-#check for makefile
-
-#has_workflows #total_workflows_num #test_related_workflows_num #pyproject.toml #setup.py #makefile
 start = time.time()
 if __name__ == "__main__":
     absolute_path = "D:\PeaTMOSS-Demos\PeaTMOSS_SAMPLE.db\PeaTMOSS_SAMPLE.db" #change this to an appropriate filepath for your directory
@@ -39,19 +30,10 @@ if __name__ == "__main__":
         ptm_repo_query = text("SELECT url as repo_url from reuse_repository")
         models = session.execute(ptm_repo_query).all()
     all_repos = []
-    repo_list = []
-
     list_attributes = []
     count_repos = 0
-    count_api_hits = 0
     for model in models:
-        
         repo_url = model.repo_url 
-        
-        if repo_url in repo_list:
-            continue
-        else:
-            repo_list.append(repo_url)
         print(f"processing for {repo_url[repo_url.find('/')+1:]}")
         try:
             repo = g.get_repo(repo_url[repo_url.find('/')+1:])
@@ -60,14 +42,13 @@ if __name__ == "__main__":
             continue
         try:
             workflow_files = repo.get_contents(".github/workflows")
-            count_api_hits+=1
             has_workflow_files = True
         except:
             workflow_files = None
             has_workflow_files = False
         repo_root_files = repo.get_contents("")
-        count_api_hits+=1
         repo_root_files_str = [file.name for file in repo_root_files]
+
         if "pyproject.toml" in repo_root_files_str:
             has_pyproject = True
         else:
@@ -88,7 +69,13 @@ if __name__ == "__main__":
             has_dockerfile = True
         else:
             has_dockerfile = False
+
+        if "pytest.ini" in repo_root_files_str:
+            has_dockerfile = True
+        else:
+            has_dockerfile = False
         
+
         total_num_of_workflow_files=0
         num_workflow_files_for_test = 0
         workflow_files_for_test = []
@@ -104,8 +91,11 @@ if __name__ == "__main__":
                 except:
                     print(f"file content for {file.name} cannot be decoded in {repo_url}")            
         
+        list_contributors = repo.get_contributors()
         #make dict for pandas df
         list_attributes.append({"repo url":repo_url,
+                                "stars":repo.stargazers_count,
+                                "num contributors":list_contributors.totalCount,
                                 "has_workflow_files":has_workflow_files,
                                 "num_workflow_files":total_num_of_workflow_files,
                                 "num_test_workflow_files":num_workflow_files_for_test,
