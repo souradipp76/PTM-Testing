@@ -1,55 +1,306 @@
-import subprocess, sys, os
-import docker
+import json
+import subprocess, os
+import fileinput
+import pandas as pd
+import shutil
+import yaml
+import sqlalchemy
 
-from github import Auth
-from github import Github
+from sqlalchemy.sql import text
+from sqlalchemy.orm import Session
 
+# from github import Auth
+# from github import Github
 from git import Repo
 
-auth = Auth.Token("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")
-g = Github(auth=auth)
+import glob 
+  
+def iterate_nested_json_for_loop(json_obj, runs, env_vars, matrix):
+    for key, value in json_obj.items():
+        if isinstance(value, dict):
+            if key == "env":
+                env_dict = value
+                for k,v in env_dict.items():
+                    env_vars[k] = v
+            elif key == "matrix":
+                matrix_dict = value
+                for k,v in matrix_dict.items():
+                    matrix[k] = v
+            else:
+                iterate_nested_json_for_loop(value, runs, env_vars, matrix)
+        elif isinstance(value, list):
+            for val in value:
+                if isinstance(val, dict):
+                    iterate_nested_json_for_loop(val, runs, env_vars, matrix)
+        elif key == "run":
+            runs.append(value)    
 
-repo = g.get_repo("deepset-ai/haystack")
-print(repo.get_topics())
-git_url = repo.clone_url;
-print(git_url)
-# contents = repo.get_contents("")
-# for content_file in contents:
-#     print(content_file)
-#     print(content_file.download_url)
+def replace_text(filename, text_to_search, replacement_text):
+    with fileinput.FileInput(filename, inplace=True, backup=".bak") as file:
+        for line in file:
+            if line.find("pip") == -1:
+                print(line.replace(text_to_search, replacement_text), end='')
 
-secret_file = "../../gha.secrets"
-repo_dir = "sample-repos/haystack"
-os.chdir(repo_dir)
+project_root = '/Users/souradippal/Downloads/PTM-Testing/'
+openai_api_key = os.environ["OPENAI_API_KEY"]
 
-# Repo.clone_from(git_url, repo_dir)
+# github_token = os.environ["GITHUB_TOKEN"]
+# auth = Auth.Token("{token}")
+# g = Github(auth=auth)
 
-# subprocess.run(["act", "workflow_dispatch", "-W", ".github/workflows/e2e.yml", "-P", "macos-latest=-self-hosted", "--secret-file", "../../gha.secrets"])
-subprocess.run(["act", "workflow_dispatch", "-W", ".github/workflows/e2e.yml", "--container-architecture", "linux/amd64", "--secret-file", "../../gha.secrets"])
-# subprocess.run(["python", "-m", "piptools", "compile", "-o", "requirements.txt", "pyproject.toml"])
-# subprocess.run(["python", "-m", "pip", "install", "-r", "requirements.txt"])
-# subprocess.run(["python", "-m", "pip", "install", ".[extra-dependencies]"])
-# subprocess.run("tox")
+# df = pd.read_csv("repo_with_workflow_v1_test.csv", header=0)
+df = pd.read_excel("final_repo_list_for_analysis.xlsx", header=0)
+secret_file = project_root+"gha.secrets"
 
-# client = docker.client.from_env()
+for index, row in df.iterrows():
+    has_workflow = row['has_workflow_files']
+    has_setup = row['has_setup']
+    has_pyproject = row['has_pyproject']
+    has_makefile = row['has_makefile']
 
-# def checkDockerContainerStatus( container):
-#     client = docker.from_env()
-#     #cli = docker.APIClient()
-#     if client.containers.list(filters={'name': container}):
-#         response = client.containers.list(filters={'name': container})
-#         return str(response[0].id)[:12]
-#     else:
-#         return None
+    if not has_workflow:
+        continue
 
-# CONTAINER_ID = checkDockerContainerStatus('node')
+    repo_name = "/".join(row["repo url"].split("/")[-2:])
+    module_name = row["repo url"].split("/")[-1]
+    git_url = "https://github.com/"+repo_name+".git"
 
-# if CONTAINER_ID is not None:
-#     print(f"Found! {CONTAINER_ID}")
-#     container = client.containers.get(CONTAINER_ID)
-#     exit_code, output = container.exec_run("python your_script.py script_args")
-# else:
-#     print("Container node is not found")
+    # try:
+    #     repo = g.get_repo(repo_name)
+    #     git_url = repo.clone_url
+    # except:
+    #     print("Repo not found")
+    #     continue
 
+    print(git_url)
 
-os.chdir('../..')
+    repo_dir = "sample-repos/" + repo_name
+    actions_file_list = [x[1:-1] for x in row["workflow_files_for_test"][1:-1].split(", ")]
+    print(actions_file_list)
+
+    if not os.path.isdir(repo_dir):
+        Repo.clone_from(git_url, repo_dir)
+
+    os.chdir(repo_dir)
+    file_pattern = ["dev", "test", "ci", "end", "e2e", "cov", "unit", "main", "build", "integration"]
+    filtered_actions_file_list = list(filter(lambda x: any([y in x for y in file_pattern]), actions_file_list))
+    print(filtered_actions_file_list)
+
+    dst = project_root+'coverage-data4/'+repo_name
+    try:
+        os.makedirs(dst)
+    except OSError as error:
+        print(error)
+
+    for file in filtered_actions_file_list:
+
+        ######## Using act #######
+        # try:
+        #     action_file = ".github/workflows/"+file
+        #     replace_text(action_file, "3.8", "3.10.11")
+        #     replace_text(action_file, "3.9", "3.10.11")
+        #     replace_text(action_file, "ubuntu-latest", "macos-latest")
+        #     replace_text(action_file, "pytest", "pytest --cov-report term --cov-report json --cov "+module_name)
+        #     subprocess.run(["act", "-W", action_file, "-P", "macos-latest=-self-hosted","--secret-file", secret_file])
+        #     os.chdir(os.path.join(project_root,repo_dir))
+        # except:
+        #     print(f"Error running {action_file}")
+        #     os.chdir(project_root+repo_dir)
+        #     continue
+
+        # coverage_files = glob.glob(os.path.join(project_root,repo_dir)+'/**/coverage.json', recursive = True)
+        # print(coverage_files)
+        # for file in coverage_files:
+        #     dst_file_name = file.replace(os.path.join(project_root,repo_dir)+repo_name+"/", "").replace("/", "-")
+        #     print(dst_file_name)
+        #     shutil.copy(file, dst+ "/"+dst_file_name)
+
+        try:
+            action_file = ".github/workflows/"+file
+            # replace_text(action_file, "3.8", "3.10.11")
+            # replace_text(action_file, "3.9", "3.10.11")
+            replace_text(action_file, "ubuntu-latest", "macos-latest")
+
+            with open(action_file) as f:
+                try:
+                    data = yaml.safe_load(f)
+                    print(data)
+                except yaml.YAMLError as exc:
+                    print(exc)
+            
+            run_commands = []
+            env_vars = {}
+            matrix = {}
+            iterate_nested_json_for_loop(data, run_commands, env_vars, matrix)
+
+            print(env_vars)
+            if len(run_commands) == 0:
+                os.chdir(os.path.join(project_root,repo_dir))
+                continue
+            
+            has_pip = False
+            for i, command in enumerate(run_commands):
+                print(f"Got command: {command}\n")
+                try:
+                    subcommands = command.split()
+                    if "pip" in subcommands:
+                        has_pip  = True
+                    
+                    if len(subcommands) == 0 or "black" in subcommands or "flake8" in subcommands or "isort" in subcommands:
+                        continue
+                    
+                    if "pytest" in subcommands and not ("--cov" in subcommands) and not("pip" in subcommands):
+                        command = command.replace("pytest", "pytest --cov-report=term --cov-report=json --cov=.")
+                        # if not "coverage" in subcommands:
+                        # command = command.replace("pytest", "coverage json -m pytest --cov-report=json")
+                        # else:
+                        #     command = command.replace("coverage run", "coverage json")
+                    
+                    if "--cov-report=html" in command:
+                        command = command.replace("--cov-report=html", "--cov-report=json") 
+                    
+                    if ("pytest" in subcommands or "coverage" in subcommands) and not has_pip:
+                        
+                        # Install dependencies
+                        try:
+                            requirement_files = glob.glob('./**/requirements*.txt', recursive = True) 
+                            print(requirement_files)
+                            install_dependencies = ["pip", "install"]
+                            for f in requirement_files:
+                                install_dependencies.append("-r")
+                                install_dependencies.append(f)
+                            subprocess.run(install_dependencies)
+                        except:
+                            print("No requirements.txt")
+
+                        # Run setup.py
+                        if has_setup:
+                            try:
+                                run_setup = ["python", "setup.py", "install"]
+                                subprocess.run(run_setup)
+                            except:
+                                print("Unable to run setup")
+
+                        # Run Makefile
+                        if has_makefile:
+                            try:
+                                subprocess.run(["make"])
+                            except:
+                                print("No Makefile")
+                
+                        # Run pip install
+                        try:
+                            install_module = ["pip", "install", "-e", "."]
+                            subprocess.run(install_module)
+                        except:
+                            print("Unable to install module using pip")
+
+                    print(env_vars)
+                    for var,val in env_vars.items():
+                        if val == "${{ secrets.OPENAI_API_KEY }}" or val == "${{secrets.OPENAI_API_KEY}}":
+                            val = openai_api_key
+                        # if val == "${{ secrets.HUGGINGFACE }}" or val == "${{secrets.OPENAI_API_KEY}}":
+                        #     val = openai_api_key
+                        # if val == "${{ secrets.GITHUB_TOKEN }}" or val == "${{secrets.GITHUB_TOKEN}}":
+                        #     val = github_token
+                        # if val == "${{ github.repository }}" or val == "${{github.repository}}":
+                        #     val = repo_name
+                        command = command.replace("$"+var, val)
+                        command = command.replace("${"+var+"}", val)
+                        command = command.replace("${{"+var+"}}", val)
+                        command = command.replace("${{ "+var+" }}", val)
+                        command = command.replace("${{ env."+var+" }}", val)
+                        command = command.replace("${{env."+var+"}}", val)
+
+                        command = command.replace("${{ secrets.OPENAI_API_KEY }}", openai_api_key)
+                        command = command.replace("${{secrets.OPENAI_API_KEY}}", openai_api_key)
+                        command = command.replace("${{ secrets.OPENAI_API_KEY }}", openai_api_key)
+                        command = command.replace("${{secrets.OPENAI_API_KEY}}", openai_api_key)
+                        command = command.replace("${{ runner.os }}", "macos-latest")
+                        command = command.replace("${{ matrix.os }}", "macos-latest")
+                        command = command.replace("${{ matrix.python-version }}", "3.9")
+
+                    # print(matrix)
+                    for var,val in matrix.items():
+                        if var.startswith("os"):
+                            val = "macos-latest"
+                        if isinstance(val == list):
+                            val = val[0]
+                        command = command.replace("${{ matrix."+var+" }}", val)
+                        command = command.replace("${{matrix."+var+"}}", val)
+
+                    print(f"Running command: {command}")
+                    subprocess.call(command, shell=True)
+                except:
+                    print(f"Unable to run command: {command}")
+            os.chdir(os.path.join(project_root,repo_dir))
+        except:
+            print(f"Error running {action_file}")
+            os.chdir(os.path.join(project_root,repo_dir))
+            continue
+        
+    coverage_files = glob.glob(os.path.join(project_root,repo_dir)+'/**/coverage.json', recursive = True)
+    print(coverage_files)
+    for file in coverage_files:
+        dst_file_name = file.replace(os.path.join(project_root,repo_dir)+"/", "").replace("/", "-")
+        print(dst_file_name)
+        shutil.copy(file, dst+ "/"+dst_file_name)  
+        
+    os.chdir(project_root)
+    # shutil.rmtree(repo_dir)
+
+def get_PTM_files_of_repo(repo_url):
+    absolute_path = "PeaTMOSS_SAMPLE.db" #change this to an appropriate filepath for your directory
+    engine = sqlalchemy.create_engine(f"sqlite:///{absolute_path}")
+
+    with Session(engine) as session:
+        ptm_repo_query = text(f"SELECT reuse_repository.url as repo_url, reuse_file.path as ptm_used_file_path , model.id as model_id , model.repo_url as model_url \
+                              FROM reuse_file \
+                              INNER JOIN model ON reuse_file.model_id=model.id \
+                              INNER JOIN reuse_repository ON reuse_repository.id=reuse_file.reuse_repository_id \
+                              WHERE reuse_repository.url='{repo_url}';")
+
+        #creating a dataframe/csv
+        models = session.execute(ptm_repo_query).all()
+    #print(f'Files in repo {repo_name} having PTMs are \n')
+    reuse_files = []
+    for model in models:
+        #print(f"{model.ptm_used_file_path} - {model.model_url}")
+        reuse_files.append(model.ptm_used_file_path)
+    return reuse_files
+
+alldata = []
+for i,row in df.iterrows():
+    github_repo = row["repo url"]
+    repo_name = "/".join(github_repo.split("/")[-2:])
+    
+    print(f"\n Repo = {github_repo}")
+    files = get_PTM_files_of_repo(github_repo)
+
+    coverage_files = os.listdir(f"coverage-data4/{repo_name}")
+        
+    for file in files:
+        file_name = "/".join(file.split("/")[2:])
+        # file_name = file[find_nth(file,"/",2)+1:]
+        coverage_percent = None
+        for coverage_file in coverage_files:
+            try:
+                f = open(f"coverage-data4/{repo_name}/{coverage_file}")
+                coverage_data = json.load(f)
+                if file_name in coverage_data['files']:
+                    #print(coverage_data['files'][file_name]['summary']['percent_covered'])
+                    coverage_percent = coverage_data['files'][file_name]['summary']['percent_covered']
+                else:
+                    coverage_percent = None
+            except(FileNotFoundError):
+                print(f"coverage-data4/{repo_name}/{coverage_file} file not found")
+                #continue
+
+        row_dict = {"repo_url":github_repo,
+                    "reuse_file":file_name,
+                    "percent covered":coverage_percent}
+
+        alldata.append(row_dict)
+
+new_df = pd.DataFrame(alldata, index=None)
+new_df.to_csv('out4.csv', index=False)
