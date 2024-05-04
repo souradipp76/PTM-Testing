@@ -1,0 +1,21 @@
+repo_url,reuse_file,percent covered
+github.com/wade3han/champagne,t5x/examples/unified_io/data/task_utils.py,0.0
+github.com/megvii-research/Sparsebit,examples/post_training_quantization/wikitext/main.py,
+github.com/megvii-research/Sparsebit,examples/unstructured_prune/GLUE/bert/main.py,
+github.com/megvii-research/Sparsebit,examples/post_training_quantization/GLUE/CoLA/main.py,
+github.com/megvii-research/Sparsebit,examples/post_training_quantization/wikitext/main.py,
+github.com/megvii-research/Sparsebit,examples/unstructured_prune/GLUE/bert/main.py,
+github.com/megvii-research/Sparsebit,examples/post_training_quantization/GLUE/CoLA/main.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_benchmark_tokenization_gpt2.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_benchmark_gpt2.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_tokenization_sst2.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_tokenization_sst2.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_tokenization_qnli.py,9.782608695652174
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_benchmark_bert.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_benchmark_tokenization_bert.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_tokenization_sst2.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_benchmark_roberta.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_benchmark_tokenization_roberta.py,
+github.com/guillaume-be/rust-tokenizers,python-bindings/tests/test_tokenization_sst2.py,
+github.com/sovrasov/flops-counter.pytorch,samples/bert.py,
+github.com/aniketmaurya/stable_diffusion_inference,src/ldm1/modules/encoders/modules.py,
