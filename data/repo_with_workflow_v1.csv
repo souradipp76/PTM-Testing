@@ -1,0 +1,1313 @@
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/NoviScl/GPT3-Reliability,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ekinakyurek/deprem_openai_apis,TRUE,2,2,"['dev.yml', 'docker-image.yml']",TRUE,FALSE,TRUE
+github.com/summerstay/Infinite-Adventure,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/MikeGu721/EasyLLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kayoyin/interpret-lm,TRUE,1,0,[],FALSE,FALSE,FALSE
+github.com/OpenLMLab/collie,TRUE,1,1,['python-publish.yml'],FALSE,TRUE,FALSE
+github.com/KaiLv69/UDR,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wyshi/lm_privacy,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/vvhg1/guided-text-generation-with-classifier-free-language-diffusion,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/agiresearch/OpenAGI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/destwang/DCN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sanjayss34/codevqa,TRUE,1,0,[],TRUE,TRUE,FALSE
+github.com/microsoft/LoRA,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/tommccoy1/inductive-bias-distillation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/VegB/iNLG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/open-instruct,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HomebrewNLP/Olmax,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aliciasun/natural-prompts,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/astrobleem/Simple-StableLM-Chat,TRUE,1,1,['python-package-conda.yml'],FALSE,FALSE,FALSE
+github.com/kmeng01/memit,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/peterwestuw/ReflectiveDecoding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/juncongmoo/minichatgpt,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/rizwan09/REDCODER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/roemmele/answerquest,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/ZZR0/CodeAttack,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sambanova/generative_data_prep,TRUE,2,2,"['release-drafter.yml', 'stale.yml']",TRUE,FALSE,FALSE
+github.com/alexgaskell10/nlp_summarization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/IBM/ecqa,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Yaoming95/CIAT,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/takaki-otake/coling2020-modeling-event-salience,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CuongNN218/zalo_ltr_2021,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rungjoo/simmc2.0,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/john-hewitt/truncation-sampling,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/joestacey/NLI_with_a_human_touch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Weixin-Liang/ChatGPT-Detector-Bias,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/declare-lab/instruct-eval,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cambridgeltl/mop,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/r2d4/rellm,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/albertkx/Berkeley-Crossword-Solver,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wseagar/diffusion.gg,TRUE,1,1,['main.yaml'],FALSE,FALSE,FALSE
+github.com/git-cloner/codegen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Glorf/recipenlg,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ruiqi-zhong/DescribeDistributionalDifferences,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/fabiangal/space-efficient-context-encoding-acl21,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/JonasGeiping/breaching,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/krafton-ai/MPC,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/CodeGeeX/codegeex-fastertransformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/prof-frink-lab/slangchain,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/RuochenZhao/Verify-and-Edit,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jiggy-ai/mass-gpt,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/facebookresearch/VLaMP,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/daniellibin/gaiic2021_track3_querySim,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/piresramon/gpt-4-enem,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/allenai/data-efficient-finetuning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/neuralmind-ai/visconde,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ImKeTT/adavae,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jhcknzzm/Federated-Learning-Backdoor,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/BM-K/KoSentenceBERT-SKT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TingsongYu/PyTorch-Tutorial-2nd,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/itsevin/sister_bot,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/darvincy/Bert_based_book_code,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yandex-research/swarm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/turtlesoupy/this-word-does-not-exist,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thejaminator/conditionme,TRUE,2,1,['dev.yml'],TRUE,FALSE,FALSE
+github.com/zjr2000/GVL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/okbuddyhololive/project-cybertard,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lazyCodes7/RedHenLab_Multimodal_Christian_Art_Tagging,TRUE,1,1,['docker-image.yml'],FALSE,FALSE,FALSE
+github.com/ZJU-OpenKS/OpenKS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Gideon-Stein/On-grammar-improvements-of-GPT-2-generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nightingal3/Fig-QA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SeldonIO/jenkins-x-seldon-core-sandbox,TRUE,11,9,"['alibidetect_tests.yml', 'alibiexplainer_tests.yml', 'executor_lint.yml', 'executor_tests.yml', 'operator_lint.yml', 'operator_tests.yml', 'python_tests.yml', 'security_tests.yml', 'stalebot.yml']",FALSE,FALSE,TRUE
+github.com/mosaicml/llm-foundry,TRUE,8,8,"['code-quality.yaml', 'codeql-analysis.yml', 'coverage.yaml', 'docker.yaml', 'pr-cpu.yaml', 'pr-gpu.yaml', 'release.yaml', 'smoketest.yaml']",TRUE,TRUE,TRUE
+github.com/dglazkov/polymath,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/model-zoo/twitter-turing-test,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/pytorch/rl,TRUE,14,14,"['benchmarks.yml', 'benchmarks_pr.yml', 'build-wheels-m1.yml', 'docs.yml', 'lint.yml', 'nightly_build.yml', 'test-linux-examples.yml', 'test-linux-habitat.yml', 'test-linux-libs.yml', 'test-linux-rlhf.yml', 'test-linux.yml', 'test-macos-cpu.yml', 'test-windows-optdepts.yml', 'wheels.yml']",TRUE,TRUE,FALSE
+github.com/MtSomeThree/constrDecoding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/perpetio/magic_avatars,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/archiki/ReCEval,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cognitive-engineering-lab/quizicist,TRUE,1,1,['ci.yaml'],FALSE,FALSE,FALSE
+github.com/wutong8023/PLM4CL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/stanford-oval/genie-toolkit,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/ADGEfficiency/creative-writing-with-gpt2,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/Shark-NLP/CAB,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/occia/fuzzdrivergpt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Heidelberg-NLP/COINS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mukobi/MLAB-Transformers-From-Scratch,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/Media-Bias-Group/MBIB,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/swift-fox/gpt2-chatbot-sms,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/spilioeve/eventsrealm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thunlp/MixADA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nunoplopes/torchy,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/calebrwalk5/basilisk,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/imyzx2017/mindspore_pcl,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/jpwahle/emnlp22-transforming,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/microsoft/LMOps,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kxz18/Stylized-Story-Generation-with-Style-Guided-Planning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/memray/OpenNMT-kpg-release,TRUE,2,2,"['push.yml', 'release.yml']",FALSE,TRUE,FALSE
+github.com/Lvchangze/snn,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/MetaICL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/pqian11/fragment-completion,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/mf1024/Transformers,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/batch-inference,TRUE,1,1,['publish_docs.yml'],TRUE,FALSE,FALSE
+github.com/KastanDay/video-pretrained-transformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aws-neuron/aws-neuron-reference-for-megatron-lm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/raghavan/InstantQnA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tridao/zoo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bhoov/exbert,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/salesforce/CodeGen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/uclasystem/bamboo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hwang595/Cuttlefish,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wangcongcong123/auto_coding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wietsedv/gpt2-recycle,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/andreamad8/PPCM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rycolab/entropy-estimation,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/Oneflow-Inc/libai,TRUE,2,1,['py.yml'],FALSE,TRUE,FALSE
+github.com/ht2/gpt_content_indexing,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/deep-spin/infinite-former,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ZZy979/pytorch-tutorial,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NVIDIA/FasterTransformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SecHack365-Fans/prompt2slip,TRUE,2,2,"['pytest.yml', 'release.yml']",TRUE,FALSE,FALSE
+github.com/SMART-TTS/SMART-Multi-Speaker-Style-TTS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/chaoyi-wu/finetune_llama,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/diffusers,TRUE,19,16,"['benchmark.yml', 'build_docker_images.yml', 'nightly_tests.yml', 'notify_slack_about_release.yml', 'pr_dependency_test.yml', 'pr_flax_dependency_test.yml', 'pr_test_fetcher.yml', 'pr_test_peft_backend.yml', 'pr_tests.yml', 'pr_torch_dependency_test.yml', 'push_tests.yml', 'push_tests_fast.yml', 'push_tests_mps.yml', 'pypi_publish.yaml', 'stale.yml', 'typos.yml']",TRUE,TRUE,TRUE
+github.com/DavidHuji/CapDec,TRUE,1,1,['python-package.yml'],FALSE,FALSE,FALSE
+github.com/declare-lab/dialogue-understanding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shizhediao/Black-Box-Prompt-Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Beomi/exbert-transformers,TRUE,6,6,"['github-torch-hub.yml', 'model-templates.yml', 'release-conda.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml']",TRUE,TRUE,TRUE
+github.com/basusourya/mirostat,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/summerstay/poem-generator,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/strongh2/sc22-ae,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Aarhus-Psychiatry-Research/psycop-ml-utils,TRUE,5,4,"['dependabot_automerge.yml', 'documentation.yml', 'main_test_and_release.yml', 'pre-commit.yml']",TRUE,FALSE,FALSE
+github.com/OSU-NLP-Group/Mind2Web,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/prakharguptaz/Adv_gen_dialogue,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yixinL7/Direct-Style-Transfer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AlexTMallen/adaptive-retrieval,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mukhal/grace,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/eric-mitchell/detect-gpt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/annacode747/novel-naifu-aki-cpu,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bipinKrishnan/ml-recipe-book,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/da03/criticize_text_generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yizhongw/Tk-Instruct,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/OhadRubin/EPR,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/259ayano/openai-cookbook-ja,TRUE,2,2,"['build-website.yaml', 'stale.yaml']",FALSE,FALSE,FALSE
+github.com/THUNLP-MT/Template-NMT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/voidism/DiffCSE,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/thu-ml/unidiffuser,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jason9693/sample-of-codepilot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TheDataStation/open_table_discovery,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/heytanay/gpt-pre-training-scratch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dapascual/DirectedBeamSearch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/google-research/google-research,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dki-lab/few-shot-bioIE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Gnurro/FinetuneReFormatter,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Leezekun/dialogic,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/babylm/evaluation-pipeline,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/moirage/alignment-research-dataset,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/AlibabaResearch/AdvancedLiterateMachinery,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TobigsConf-1415/MPTI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/itsnamgyu/reasoning-teacher,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/flowersteam/Grounding_LLMs_with_online_RL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wade3han/champagne,TRUE,1,1,['build.yaml'],FALSE,FALSE,FALSE
+github.com/Adapter-Hub/adapter-transformers,TRUE,3,3,"['adapter_docs_build.yml', 'stale.yml', 'tests_torch.yml']",TRUE,TRUE,TRUE
+github.com/HLTCHKUST/adapterbot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/qywu/PRAL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nitrosocke/diffusers-webui,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/dist-ir,TRUE,1,1,['tests.yml'],FALSE,TRUE,FALSE
+github.com/bendgame/WritingAssistantApp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Dahoas/gpt-neox-finetuning,TRUE,2,1,['docker_build.yml'],FALSE,FALSE,FALSE
+github.com/arcypojeb/NeuralGPT,TRUE,1,1,['python-app.yml'],FALSE,TRUE,FALSE
+github.com/joeljang/negated-prompts-for-llms,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wangguojim/LargeScale,TRUE,2,2,"['ci.md', 'main.yml']",TRUE,TRUE,TRUE
+github.com/li-aolong/TemplateGEC,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/pytorch/TensorRT,TRUE,10,8,"['assigner.yml', 'blossom-ci.yml', 'build-test.yml', 'label.yml', 'linter.yml', 'linux-test.yml', 'nightlies.yml', 'stale.yml']",TRUE,TRUE,FALSE
+github.com/feyzaakyurek/rl4f,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/csinva/iprompt,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/summerstay/true_poetry,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shunzh/Code-AI-Tree-Search,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/binmakeswell/ColossalChat,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/rasbt/machine-learning-book,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/google-research/lm-extraction-benchmark,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Pawandeep-prog/finetuned-gpt2-convai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Liadrinz/transformers-copy-mechanism,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/vlievin/medical-reasoning,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/cortexlabs/cortex,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/toufunao/SCM4LLMs,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/FreddeFrallan/Non-Residual-Prompting,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/joeljang/continual-knowledge-learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wjn1996/HugNLP,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/gorokoba560/norm-analysis-of-transformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/varunnair18/FISH,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/milesaturpin/cot-unfaithfulness,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lileipisces/PEPLER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/awslabs/fast-differential-privacy,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/peterwestuw/surface-form-competition,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Palashio/Libra,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/skgabriel/narrative_inference_demo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CannyLab/summary_loop,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/christinakim/scaling-laws-for-language-transfer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hpcaitech/ColossalAI,TRUE,29,28,"['README.md', 'build_on_pr.yml', 'build_on_schedule.yml', 'close_inactive.yml', 'compatiblity_test_on_dispatch.yml', 'compatiblity_test_on_pr.yml', 'compatiblity_test_on_schedule.yml', 'cuda_ext_check_before_merge.yml', 'doc_build_on_schedule_after_release.yml', 'doc_check_on_pr.yml', 'doc_test_on_pr.yml', 'doc_test_on_schedule.yml', 'draft_github_release_post_after_merge.yml', 'example_check_on_dispatch.yml', 'example_check_on_pr.yml', 'example_check_on_schedule.yml', 'post_commit.yml', 'release_docker_after_publish.yml', 'release_nightly_on_schedule.yml', 'release_pypi_after_merge.yml', 'release_test_pypi_before_merge.yml', 'report_leaderboard_to_lark.yml', 'report_test_coverage.yml', 'run_chatgpt_examples.yml', 'run_chatgpt_unit_tests.yml', 'run_colossalqa_unit_tests.yml', 'submodule.yml', 'translate_comment.yml']",FALSE,TRUE,FALSE
+github.com/Oskar-Bonde/Generating-Terraform-configuration-files,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/prajwalkr/vtp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/claws-lab/multimodal-robustness,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/uds-lsv/bert-stable-fine-tuning,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/hahnyuan/RPTQ4LLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/GanjinZero/RRHF,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/maxreciprocate/offline,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/danielsc/openai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/fangleai/TransformerCVAE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xvyaward/owq,TRUE,1,1,['ci.yml'],FALSE,FALSE,FALSE
+github.com/gmftbyGMFTBY/Copyisallyouneed,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/OpenMatch/Augmentation-Adapted-Retriever,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/michael-wzhu/daguan_competition_2021_codes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kssteven418/LTP,TRUE,6,6,"['github-torch-hub.yml', 'model-templates.yml', 'release-conda.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml']",TRUE,TRUE,TRUE
+github.com/ArthurConmy/Automatic-Circuit-Discovery,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/saxenabhishek/nobook.learn,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/fattorib/Little-GPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/homanp/superagent,TRUE,2,2,"['ci.yml', 'lint.yml']",FALSE,FALSE,FALSE
+github.com/madaan/temporal-graph-gen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xiye17/TextualExplInContext,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sangmichaelxie/doremi,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/UCSD-AI4H/COVID-Dialogue,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/machelreid/lewis,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tonyzhaozh/few-shot-learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/INK-USC/CommonGen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HLTCHKUST/ke-dialogue,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/summerstay/sentence-completions-gpt-2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SilkeHusse/Re-Evaluating-Bias,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/b1r3k/askgpt,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/haocai1992/GPT2-News-Classifier,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/eric-mitchell/serac,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thunlp/OpenAttack,TRUE,2,2,"['deployment.yaml', 'test.yaml']",TRUE,TRUE,FALSE
+github.com/theodoremui/diversity-colleges,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cargoshipsh/cargoship,TRUE,12,12,"['checks.yml', 'image-captioning.yml', 'image-classification.yml', 'image-generation.yml', 'model-language-detection.yml', 'ocr-base-handwritten.yml', 'sentiment-de.yml', 'sentiment-en.yml', 'summarization-en.yml', 'text-generation-en-lg.yml', 'text-generation-en-sm.yml', 'whisper-tiny-en.yml']",FALSE,FALSE,FALSE
+github.com/g0dEngineer/Cryptosynth,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhaoxlpku/KnowledGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/THUDM/CodeGeeX,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/microsoft/python-inference-script,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/efan3000/muisc,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mert-kurttutan/torchview,TRUE,2,2,"['build.yml', 'test.yml']",TRUE,FALSE,FALSE
+github.com/harubaru/Akyuu,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CLMBRs/communication-translation,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/BM-K/KoSentenceBERT-ETRI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/anaistack/ai-teacher-test,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mindspore-lab/pangu_alpha,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HKUNLP/batch-prompting,TRUE,1,1,['ci.yaml'],TRUE,TRUE,TRUE
+github.com/bytedance/lightseq,TRUE,1,1,['build_check.yml'],FALSE,TRUE,FALSE
+github.com/bcbi-edu/p_eickhoff_isoscore,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/FUZHIYI/TACO,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/text-generation-inference,TRUE,9,6,"['autodocs.yml', 'build.yaml', 'client-tests.yaml', 'load_test.yaml', 'stale.yml', 'tests.yaml']",FALSE,FALSE,TRUE
+github.com/microsoft/PythonProgrammingPuzzles,TRUE,1,1,['codeql-analysis.yml'],FALSE,FALSE,FALSE
+github.com/showlab/CLVQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/niansong1996/lever,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigscience-workshop/bigscience,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/gradio-app/gradio,TRUE,13,11,"['comment-queue.yml', 'delete-stale-spaces.yml', 'deploy+test-visual.yml', 'deploy-spaces.yml', 'deploy-website.yml', 'generate-changeset.yml', 'publish.yml', 'test-functional.yml', 'test-hygiene.yml', 'test-python.yml', 'tests-js.yml']",TRUE,FALSE,FALSE
+github.com/JiwanChung/tapm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/slavingia/askmybook,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/adihaviv/nopos,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/google/one-weird-trick,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Markfryazino/ASLan,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nebuly-ai/nebuly,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/vicgalle/gpt-j-api,TRUE,2,2,"['autoblack.yml', 'test.yml']",FALSE,FALSE,FALSE
+github.com/ezelikman/STaR,TRUE,1,1,['lint_python.yml'],FALSE,TRUE,FALSE
+github.com/tunib-ai/large-scale-lm-tutorials,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/davidsvy/Neural-Scam-Artist,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/metterian/hctl-educational-persona-chat,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/OSU-NLP-Group/SELM,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/ewsheng/controllable-nlg-biases,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/weixi-feng/LayoutGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/seonghyeonye/ICIL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhangir-azerbayev/mathlib-semantic-search,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/claireaoi/hierarchical-rule-induction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Sea-Snell/JAXSeq,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/qcwthu/Lifelong-Fewshot-Language-Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/prajdabre/yanmtt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DependableSystemsLab/LLTFI,TRUE,2,2,"['C_CXX_linter.yml', 'codeql.yml']",FALSE,FALSE,FALSE
+github.com/allenai/scirepeval,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CesareSwift/Query-Completion-finetune-GPT2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/apartresearch/specificityplus,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kmeng01/rome,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tomhosking/torchseq,TRUE,1,1,['torchseq.yml'],FALSE,TRUE,TRUE
+github.com/ChicagoHAI/active-example-selection,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/nlpcl-lab/Auto_Labeling,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/moinnadeem/characterizing-sampling-algorithms,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigcode-project/bigcode-analysis,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/scottleibrand/gpt-summarizer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ridgerchu/gpt-neox-RWKV,TRUE,3,3,"['cpu_ci.yml', 'docker_build.yml', 'pull_request.yml']",FALSE,FALSE,FALSE
+github.com/sarthakarora1208/clyde,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/copenlu/fever-adversarial-attacks,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thunlp/RE-Context-or-Names,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aianaconda/pytorch-GNN-2nd-,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jsoslow2/AI-Therapist,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Oneflow-Inc/one-codegeex,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/gallilmaimon/LUNATC,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/webis-de/summary-workbench,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rosewang2008/language_modeling_via_stochastic_processes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/p-lambda/incontext-learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/minimalist-nlp/gpt2-text-generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sarthakarora1208/Reeko-Slack-Bot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/socketteer/loom,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/operatorai/modelstore,TRUE,3,3,"['codeql-analysis.yml', 'integration-tests.yml', 'unit-tests.yml']",FALSE,TRUE,TRUE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/TailUFPB/storIA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shuo-git/VecConstNMT,TRUE,1,1,['build.yml'],FALSE,TRUE,FALSE
+github.com/john-hewitt/backpacks-flash-attn,TRUE,3,2,"['env.sh', 'publish.yml']",FALSE,TRUE,TRUE
+github.com/FMInference/H2O,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/marqo-ai/marqo,TRUE,8,8,"['arm64_docker_marqo.yml', 'cpu_docker_marqo.yml', 'cpu_local_marqo.yml', 'cuda_docker_marqo.yml', 'dispatch_update_model_list.yml', 'largemodel_unit_test_CI.yml', 'run_all_tests.yml', 'unit_test_200gb_CI.yml']",TRUE,TRUE,FALSE
+github.com/EagleW/CLBD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jiggy-ai/hn_summary,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/davidvos/prefix-tuning-for-data-management,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigscience-workshop/Megatron-DeepSpeed,TRUE,2,2,"['ci.md', 'main.yml']",TRUE,TRUE,TRUE
+github.com/liamdugan/human-detection,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/staged-training,TRUE,1,1,['cffconvert.yml'],FALSE,FALSE,FALSE
+github.com/ModelTC/Outlier_Suppression_Plus,TRUE,2,1,['python-app.yml'],FALSE,FALSE,FALSE
+github.com/UKPLab/adaptable-adapters,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/fly,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yangkevin2/emnlp22-re3-story-generation,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/redwoodresearch/mlab,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/bigscience-workshop/evaluation,TRUE,2,2,"['code_quality.yml', 'test.yml']",TRUE,TRUE,TRUE
+github.com/krangelie/bias-in-german-nlg,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/csinva/imodelsX,TRUE,1,1,['python-package.yml'],FALSE,TRUE,FALSE
+github.com/Alrope123/z-icl,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thunlp/OpenBackdoor,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/hendrycks/apps,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dingyuqing05/trt2022_wenet,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/WANGXinyiLinda/concept-based-demonstration-selection,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ShuyangCao/inference_style_control,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/mutransformers,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/WAUthethird/gpt-fewshot-batcher,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/BriansIDP/WhisperBiasing,TRUE,2,2,"['python-publish.yml', 'test.yml']",FALSE,TRUE,FALSE
+github.com/cannlytics/cannabis-data-science,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/callummcdougall/ARENA_2.0,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cpuguy96/StepCOVNet,TRUE,2,2,"['codeql-analysis.yml', 'pre-submit.yml']",FALSE,FALSE,FALSE
+github.com/jeffhj/LM_PersonalInfoLeak,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SeanNaren/min-LLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/violet-zct/swarm-distillation-zero-shot,TRUE,11,10,"['build_doc_test.yml', 'build_documentation.yml', 'doctests.yml', 'github-torch-hub.yml', 'model-templates.yml', 'release-conda.yml', 'self-nightly-scheduled.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml']",TRUE,TRUE,TRUE
+github.com/neelnanda-io/TransformerLens,TRUE,3,3,"['checks.yml', 'gh-pages.yml', 'release.yml']",TRUE,FALSE,FALSE
+github.com/Yui010206/SeViLA,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/chai-research/lmgym,TRUE,1,1,['lmgym.yaml'],FALSE,FALSE,FALSE
+github.com/allenai/catwalk,TRUE,2,2,"['changelog.yml', 'main.yml']",TRUE,TRUE,TRUE
+github.com/wellecks/mgs,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/kernelmachine/demix-data,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thunlp/HiddenKiller,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/maximilianmozes/fgws,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mlcommons/inference_results_v2.1,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lvyiwei1/StylePTB,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ZihanWangKi/GoalEx,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/amanbasu/sentence-simplification,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CarperAI/CodeReviewSE,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/allenai/RL4LMs,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/DOUDOU0314/GPT-J-hf,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Wendy-Xiao/chatgpt_editing_summ,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PurduePAML/DBS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/naimenz/inverse-scaling-eval-pipeline,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/SimiaoZuo/MoEBERT,FALSE,0,0,[],TRUE,TRUE,TRUE
+github.com/jiggy-ai/promptstack,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/inkoon/simmc,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/macksjeremy/GPTNULL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/geekjr/quickai,TRUE,4,4,"['autopep8.yml', 'pylint.yml', 'python-package.yml', 'python-publish.yml']",TRUE,TRUE,FALSE
+github.com/ag1988/dlr,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Kel-Lu/SciGen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Ezharjan/AcademicGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DSAISummerCamp/dscamp_public,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/chiahsuan156/DST-as-Prompting,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PrimerAI/blanc,TRUE,1,1,['codeql-analysis.yml'],FALSE,TRUE,FALSE
+github.com/BangLiu/ACS-QG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ethanjperez/rda,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/claws-lab/MisinfoCorrect,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigthonk/blather,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/kanekomasahiro/context-debias,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/MinSong2/yonlu,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/W4ngatang/qags,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Mandar-Sharma/TCube,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Elbria/xling-SemDiv,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/meghabyte/acl2021-education,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/liuzhengzhe/Towards-Implicit-Text-Guided-Shape-Generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/padmalcom/ttsdatasetcreator,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wanicca/transformers_ptuning,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/SaiAshish-Konchada/Python-Projects-for-Beginners,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/EleutherAI/The-Pile,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/ethanyanjiali/minChatGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/redwoodresearch/remix_public,TRUE,1,1,['run_all_solutions.yml'],FALSE,FALSE,FALSE
+github.com/golsun/DialogRPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CarperAI/trlx,TRUE,2,1,['build.yml'],TRUE,TRUE,FALSE
+github.com/openai/grade-school-math,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/SuffolkLITLab/FormFyxer,TRUE,2,1,['mypy_unittests.yml'],TRUE,TRUE,FALSE
+github.com/google-research/deduplicate-text-datasets,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/transformers,TRUE,28,17,"['add-model-like.yml', 'build-docker-images.yml', 'build-nightly-ci-docker-images.yml', 'build-past-ci-docker-images.yml', 'check_tiny_models.yml', 'doctests.yml', 'model-templates.yml', 'model_jobs.yml', 'self-nightly-scheduled.yml', 'self-past.yml', 'self-push-amd-mi210-caller.yml', 'self-push-amd-mi250-caller.yml', 'self-push-amd.yml', 'self-push-caller.yml', 'self-push.yml', 'self-scheduled-amd.yml', 'self-scheduled.yml']",TRUE,TRUE,TRUE
+github.com/BM-K/Dialogue-Generation-BERT-GPT2-English,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/borisdayma/huggingtweets,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/danielmamay/mlab,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sunlab-osu/IterPrompt,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/huggingface/accelerate,TRUE,13,10,"['build-docker-images-release.yml', 'build_and_run_tests.yml', 'build_docker_images.yml', 'integration_tests.yml', 'nightly.yml', 'quality.yml', 'run_merge_tests.yml', 'self_hosted_integration_tests.yml', 'stale.yml', 'test.yml']",TRUE,TRUE,TRUE
+github.com/CODINNLG/Bridge_Gap_Diffusion,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/griptape-ai/griptape,TRUE,3,3,"['code-checks.yml', 'integration-tests.yml', 'unit-tests.yml']",TRUE,FALSE,TRUE
+github.com/coderalo/11785-automatic-poetry-generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ag1988/dss,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/VPGTrans/VPGTrans,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/moutaigua8183/BookQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/benpry/chain-of-thought-metaphor,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cedrickchee/experiments,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zjunlp/PromptKG,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/bigcode-project/commits,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/apache/singa,TRUE,4,4,"['conda.yaml', 'macOS.yaml', 'rat.yaml', 'ubuntu.yaml']",FALSE,TRUE,FALSE
+github.com/behavioral-data/PARTNER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/CodeGenerationPoisoning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/optimum-graphcore,TRUE,8,5,"['build_pr_documentation.yml', 'check_code_quality.yml', 'test-examples.yml', 'test-general.yml', 'test-pipelines.yml']",TRUE,TRUE,TRUE
+github.com/tipani86/CatGDP,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dmcv-ecnu/MindSpore_ModelZoo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/JRC1995/Chatbot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhougroup/BAM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/megvii-research/Sparsebit,TRUE,1,1,['ci_test.yml'],FALSE,TRUE,FALSE
+github.com/alfredodeza/huggingface-deploy-azure,TRUE,1,1,['main.yml'],FALSE,FALSE,FALSE
+github.com/triton-inference-server/model_navigator,TRUE,1,1,['stale.yaml'],TRUE,FALSE,TRUE
+github.com/secretflow/spu,TRUE,9,2,"['scorecard.yml', 'trigger-circleci.yml']",TRUE,TRUE,FALSE
+github.com/LogicPy/Python,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/EleutherAI/DALLE-mtf,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/switchball/streamlit-gpt3,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhouhanxie/PRAG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/suryavanshi/nlp_augment_streamlit,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/roemmele/InSentive,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HKUST-KnowComp/atomic-conceptualization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wxjiao/ParroT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dhansmair/flamingo-mini,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/thunlp/ONION,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bytedance/neurst,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/hyunwoongko/stop-sequencer,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/PlusLabNLP/flashback_gen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jmerullo/limber,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/prodev880110/GPT3Discord,TRUE,4,4,"['black-and-deploy.yml', 'build.yml', 'docker_upload.yml', 'pypi_upload.yml']",TRUE,FALSE,FALSE
+github.com/salesforce/LAVIS,TRUE,1,0,[],TRUE,TRUE,FALSE
+github.com/TrentBrick/attention-approximates-sdm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/StampyAI/stampy,TRUE,3,3,"['deploy-to-development-server.yml', 'deploy-to-production-server.yml', 'unit-test-pull-request.yml']",FALSE,FALSE,FALSE
+github.com/sohamganatra/knowledge-box,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhangir-azerbayev/ProofNet,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/feb,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/corolla-johnson/mkultra,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/AtmaHou/PromptSlotTagging,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kirubarajan/roft,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/harubaru/convogpt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tomsilver/llm-pddl,TRUE,1,1,['llmclone.yml'],FALSE,TRUE,FALSE
+github.com/mkuchnik/relm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Alrope123/prompt-waywardness,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/csebuetnlp/CrossSum,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bobbae/gcp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/simmc2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thu-coai/PICL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/EleutherAGI/summarisation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/archiki/GrIPS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/MODel_opt,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/stanford-crfm/levanter,TRUE,3,3,"['run_entry_tests.yaml', 'run_pre_commit.yaml', 'run_tests.yaml']",TRUE,FALSE,FALSE
+github.com/JiwanChung/esper,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/grant-TraDA/NLP-2022L,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/leileigan/clean_label_textual_backdoor_attack,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Jaseci-Labs/jaseci,TRUE,11,11,"['black.yml', 'build-and-release-studio.yml', 'build-and-release.yml', 'jac-extension-test.yml', 'jac-misc-test.yml', 'jac-nlp-test.yml', 'jac-speech-test.yml', 'jac-vision-test.yml', 'jaseci-core-test.yml', 'jaseci-serv-test.yml', 'jaseci-studio-test.yml']",FALSE,FALSE,FALSE
+github.com/Leezekun/Directional-Stimulus-Prompting,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/chancefocus/PIXIU,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/csong27/collision-bert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SPOClab-ca/layerwise-anomaly,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dheeraj7596/C2F,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/osi1880vr/deforum-sd-ui,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/soochan-lee/RoT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/princeton-nlp/MultilingualAnalysis,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PengZai/ARIC,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CesareSwift/News-Search-Engine,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/YujieLu10/CLAP,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/omar-mohamed/GPT2-Chest-X-Ray-Report-Generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sangwook236/SWDT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mila-iqia/milabench,TRUE,8,3,"['docs.yml', 'integration.yml', 'tests.yml']",TRUE,FALSE,FALSE
+github.com/RobertRiachi/nanoPALM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/prompt-learning/cedar,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/LaViLa,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jiacheng-xu/text-sum-uncertainty,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dapascual/K2T,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lingchensanwen/DCQA-QUD-parsing,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/H3,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/PyCodeGPT,TRUE,1,1,['codeql.yml'],FALSE,FALSE,FALSE
+github.com/peterbhase/ExplanationSearch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lucy66666/OKT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/tango,TRUE,6,6,"['changelog.yml', 'docker.yml', 'docker_testing.yml', 'integration_tests.yml', 'main.yml', 'update_dependency_pr.yml']",TRUE,FALSE,TRUE
+github.com/EleutherAI/gpt-neox,TRUE,4,4,"['coverity_scan.yml', 'cpu_ci.yml', 'docker_build.yml', 'pull_request.yml']",FALSE,FALSE,FALSE
+github.com/nusdbsystem/singa-auto,TRUE,1,1,['lint.yml'],FALSE,TRUE,FALSE
+github.com/yurakuratov/t5-experiments,TRUE,1,1,['codestyle.yml'],FALSE,TRUE,FALSE
+github.com/crazydigger/Callibration-of-GPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/triton-inference-server/pytriton,TRUE,1,1,['stale.yaml'],TRUE,FALSE,TRUE
+github.com/21WelfareForEveryone/WelfareForEveryOne,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cmry/cmry.github.io,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AshutoshDongare/HuggingFace-Model-Serving,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/AdaMix,FALSE,0,0,[],TRUE,TRUE,TRUE
+github.com/microsoft/fastseq,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/labmlai/annotated_deep_learning_paper_implementations,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/LuCeHe/pyaromatics,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/SALT-NLP/LLMs_for_CSS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jackjyzhang/pcfg-nl-interface,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/openpi-dataset,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bentoml/BentoML,TRUE,5,5,"['ci.yml', 'cleanup.yml', 'codeql-analysis.yml', 'cqa.yml', 'release.yml']",TRUE,FALSE,TRUE
+github.com/rycolab/differentiable-subset-pruning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/buxiangzhiren/DDCap,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/csebuetnlp/xl-sum,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aalok-sathe/surprisal,TRUE,3,3,"['docs.yml', 'pylint.yml', 'python-publish.yml']",TRUE,FALSE,FALSE
+github.com/awsm-research/VulRepair,TRUE,1,1,['workflow.yml'],FALSE,FALSE,FALSE
+github.com/danesherbs/summarizing-from-human-feedback,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/lil-lab/cb2,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/continuedev/continue,TRUE,2,1,['codeql.yml'],FALSE,FALSE,FALSE
+github.com/spullara/gpt-j-6b,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Axlfc/UE5-python,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LCS2-IIITD/ACL-FFLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/airobotlab/KoChatGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/scientific-claim-generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/JeremySun1224/CCFBDCI2020,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/smpanaro/more-ane-transformers,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/andreamad8/FSB,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nateraw/discord-image-captioning-bot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hwchase17/langchain,TRUE,15,13,"['_compile_integration_test.yml', '_dependencies.yml', '_integration_test.yml', '_lint.yml', '_release.yml', '_release_docker.yml', '_test.yml', '_test_release.yml', 'check-broken-links.yml', 'check_diffs.yml', 'codespell.yml', 'people.yml', 'scheduled_test.yml']",TRUE,FALSE,TRUE
+github.com/AranKomat/Diff-DALLE,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/zzsfornlp/zmsp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/UM-ARM-Lab/Efficient-Eng-2-LTL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mindspore-ai/models,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ChrisIsKing/Zero-shot-text-classification,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/opentensor/bittensor,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/databricks-academy/large-language-models,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigcode-project/transformers,TRUE,21,16,"['add-model-like.yml', 'build-docker-images.yml', 'build-nightly-ci-docker-images.yml', 'build-past-ci-docker-images.yml', 'check_runner_status.yml', 'check_tiny_models.yml', 'doctests.yml', 'model-templates.yml', 'release-conda.yml', 'self-nightly-scheduled.yml', 'self-past.yml', 'self-push-caller.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml', 'update_metdata.yml']",TRUE,TRUE,TRUE
+github.com/mindspore-lab/mindrlhf,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/raminmh/liquid-s4,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xyease/Dialog-PrLM,TRUE,3,3,"['github-torch-hub.yml', 'self-push.yml', 'self-scheduled.yml']",TRUE,TRUE,TRUE
+github.com/devforth/gpt-j-6b-gpu-docker,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/hyena-dna,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/WorkInTheDark/FairytaleQA_QAG_System,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/maastrichtlawtech/VendorLink,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alfredodeza/huggingface-docker,TRUE,1,1,['docker-image.yml'],FALSE,FALSE,FALSE
+github.com/IIT-NLP-RESEARCH/ChatGPT-Crawler,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/borgr/ordert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mallorbc/Finetune_LLMs,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bytechina/openai-cookbook-zh,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cognitiveailab/darmok,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/domino,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/microsoft/semantic_parsing_with_constrained_lm,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/peterwestuw/GPT2ForwardBackward,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Lifelong-Robot-Learning/LIBERO,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/Arpan-Mishra/Anime-Generation-using-Deep-Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhaozj89/Educational-Question-Generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/qcwthu/Continual_Fewshot_Relation_Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/akshata29/openai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ejmejm/AI-Art-Generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bhargaviparanjape/language-programmes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/gh18l/CrawlGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/iie-ycx/COLING2022-TAKE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aws-samples/sagemaker-distributed-training-workshop,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aws-neuron/transformers-neuronx,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/princeton-nlp/align-mlm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/tokenizers,TRUE,14,9,"['docs-check.yml', 'node-release.yml', 'node.yml', 'python-release-conda.yml', 'python-release.yml', 'python.yml', 'rust-release.yml', 'rust.yml', 'stale.yml']",FALSE,FALSE,FALSE
+github.com/Vahe1994/SpQR,TRUE,1,1,['check-style.yaml'],TRUE,FALSE,FALSE
+github.com/AlexWan0/Poisoning-Instruction-Tuned-Models,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cambridgeltl/autopeft,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/commune-ai/commune,TRUE,3,3,"['build-push-docker-image.yml', 'pr_and_push.yml', 'release.yml']",FALSE,TRUE,TRUE
+github.com/HKUNLP/HumanPrompt,TRUE,1,1,['ci.yaml'],TRUE,TRUE,TRUE
+github.com/SeldonIO/seldon-core,TRUE,13,13,"['alibidetect_tests.yml', 'alibiexplainer_tests.yml', 'docs.yml', 'draft-release.yml', 'images.yml', 'license.yml', 'python_lint.yml', 'python_tests.yml', 'security_tests.yml', 'security_tests_v2.yml', 'stalebot.yml', 'test-executor.yml', 'test-operator.yml']",FALSE,FALSE,TRUE
+github.com/cshizhe/HM3DAutoVLN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yunwei37/openai-cookbook-zh-cn,TRUE,1,1,['translate.yml'],FALSE,FALSE,FALSE
+github.com/DeepLearnXMU/embedding-transfer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shmsw25/Channel-LM-Prompting,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hqsiswiliam/persona-adaptive-attention,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/finetunej/gpt-neo_finetune_2.7B,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mattneary/attention,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/jzhang38/LPD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kubasiak/azure-open-ai-embeddings-qna,TRUE,1,1,['WebApp.yml'],FALSE,FALSE,FALSE
+github.com/EleutherAI/oslo,TRUE,2,1,['contributors.yaml'],FALSE,TRUE,FALSE
+github.com/000alen/Phaedra,TRUE,1,1,['codeql-analysis.yml'],FALSE,FALSE,FALSE
+github.com/thomaslu2000/Incremental-Parsing-Representations,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/redwoodresearch/rust_circuit_public,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/leeck10/Rationale_Extraction_using_Diffmask,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/discus0434/paper-summarizer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Rythsman/TRT-Hackathon-2022-final,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NLPCode/CBART,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/archai,TRUE,6,6,"['build-publish-docs.yml', 'build-release-pypi.yml', 'check-with-codeql.yml', 'check-with-devskim.yml', 'lint-run-unit-tests.yaml', 'run-notebook-tests.yml']",TRUE,TRUE,FALSE
+github.com/facebookresearch/synlm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/matthew-mcateer/practicing_trustworthy_machine_learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/h9-tect/GPT-2_Midjourny,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sunil741/Medical-Chatbot-using-Bert-and-GPT2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LLluoling/PENS-Personalized-News-Headline-Generation,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/minaek/reward_design_with_llms,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alfredodeza/huggingface-ghcr,TRUE,2,2,"['main.yml', 'pr-checks.yml']",FALSE,FALSE,FALSE
+github.com/awwang10/llmpromptboosting,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/terarachang/DataICL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/moyix/gpt-wpre,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Ducksss/HacknRoll2023-Robin-Hood,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TianHongZXY/CoRe,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/F-period/Open_Chinese_Figure_KG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/Opacus-lab,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yoheinakajima/babyagi,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/WorkInTheDark/FairytaleQA_Baseline,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/weiguowilliam/CEAT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jsonsmth/GPT-chatwithpdf,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aogara-ds/hoodwinked,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ftramer/LM_Memorization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NTX-McGill/NeuroTechX-McGill-2021,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cookielee77/CLARE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kagermanov27/daath-ai-parser,TRUE,1,1,['python-app.yml'],FALSE,FALSE,FALSE
+github.com/LowinLi/transformers-stream-generator,TRUE,1,0,[],FALSE,TRUE,FALSE
+github.com/Yale-LILY/ConvoSumm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zapier/langchain-nla-util,TRUE,4,4,"['linkcheck.yml', 'lint.yml', 'release.yml', 'test.yml']",TRUE,FALSE,TRUE
+github.com/chrisdonahue/ilm,FALSE,0,0,[],FALSE,TRUE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/NGLSG/QChatBot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/tflite-android-transformers,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigheiniu/FactGen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alinlab/b2t,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Aleph-Alpha/magma,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/number1roy/gpt-neox-colossalai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/toncho11/ML_examples,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/KaiserWhoLearns/Effective-Attention-Interpretability,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bminixhofer/gerpt2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AI21Labs/Parallel-Context-Windows,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sai-prasanna/lmproof,TRUE,1,1,['main.yml'],TRUE,FALSE,FALSE
+github.com/dheerajrajagopal/EIGEN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hpcaitech/GPT-Demo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/deepchecks/deepchecks,TRUE,11,11,"['benchmark-history.yml', 'benchmark.yml', 'build.yml', 'codeql-analysis.yml', 'conda_publish.yml', 'docs-generation.yml', 'docs.yaml', 'label-new-issue.yml', 'lint.yml', 'pr.yaml', 'release.yml']",FALSE,TRUE,FALSE
+github.com/Dahoas/reward-modeling,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dair-iitd/ECQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/amazon-science/controlling-llm-memorization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alpa-projects/alpa,TRUE,5,2,"['ci.yml', 'release_jaxlib.yml']",FALSE,TRUE,FALSE
+github.com/TideDancer/iclr21_isotropy_contxt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SKRohit/Generating_Text_Summary_With_GPT2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/RLHF-APA,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/aied2021TRMRC/AIED_2021_TRMRC_code,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/p-lambda/swords,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/brando90/ultimate-utils,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/skgabriel/paracomet,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhongpei/image2text_prompt_generator,TRUE,2,2,"['jekyll-gh-pages.yml', 'readme.yml']",FALSE,FALSE,FALSE
+github.com/thomfoster/minRLHF,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/wenhuchen/KGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lvwerra/trl,TRUE,10,7,"['benchmark.yml', 'clear_cache.yml', 'docker-build.yml', 'slow-tests.yml', 'stale.yml', 'tests-main.yml', 'tests.yml']",TRUE,TRUE,TRUE
+github.com/redwoodresearch/interp,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/Ryan-the-hito/Broccoli,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CYang828/end2end-conversational-ai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Yangyi-Chen/MAYA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/RockyLzy/TextDefender,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nlx-group/Shortcutted-Commonsense-Reasoning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ray-project/ray,TRUE,1,1,['external-code-affected.yml'],FALSE,FALSE,FALSE
+github.com/hitomi-team/sukima,TRUE,1,1,['docker-image.yml'],FALSE,FALSE,FALSE
+github.com/gryhkn/ask2db,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HLTCHKUST/KnowExpert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/searchableai/ChainCQG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/i-Eval/ieval-instruction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/irgolic/AutoPR,TRUE,5,5,"['autopr.yml', 'build-image.yml', 'lint.yml', 'pyright.yml', 'pytest.yml']",TRUE,FALSE,TRUE
+github.com/workshopapps/salesaccount.web,TRUE,1,1,['docker-image.yml'],FALSE,FALSE,FALSE
+github.com/intel/open-domain-question-and-answer,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/peggypytang/OTExtSum,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/callummcdougall/TransformerLens-intro,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/state-spaces,TRUE,1,1,['ci.yml'],FALSE,FALSE,TRUE
+github.com/ebagdasa/backdoored_transformers,TRUE,5,5,"['github-torch-hub.yml', 'model-templates.yml', 'release-conda.yml', 'self-push.yml', 'self-scheduled.yml']",TRUE,TRUE,TRUE
+github.com/SHEERANER/Modelzoo_centermask_pytorch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/realtimeqa/realtimeqa_public,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nostalgebraist/nostalgebraist-autoresponder,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SALT-NLP/Structure-Aware-BART,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/harbor-ml/modelzoo,TRUE,2,2,"['frontend.yml', 'go.yml']",FALSE,TRUE,TRUE
+github.com/IDEA-CCNL/Fengshenbang-LM,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/SJTU-LIT/PEM_composition,FALSE,0,0,[],TRUE,TRUE,TRUE
+github.com/arunprsh/train-gpt-from-scratch-on-sagemaker,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PradeepNalluri/Prefix-Tuning-Bert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/JeremyAlain/imitation_learning_from_language_feedback,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hugman/DL_NLP_101,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/pytorch/serve,TRUE,20,12,"['ci-cpu-cpp.yml', 'ci_cpu.yml', 'ci_gpu.yml', 'codeql.yml', 'docker-ci.yaml', 'kserve_cpu_tests.yml', 'kubernetes_tests.yml', 'regression_tests_cpu.yml', 'regression_tests_cpu_binaries.yml', 'regression_tests_docker.yml', 'regression_tests_gpu.yml', 'regression_tests_gpu_binaries.yml']",FALSE,TRUE,FALSE
+github.com/BeyonderXX/InstructUIE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/RubensZimbres/Repo-2019,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/BrianPulfer/LMWatermark,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SRI-CSL/arsenal-base,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yxuansu/Contrastive_Search_versus_Contrastive_Decoding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/salesforce/simpletod,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/modal-labs/modal-examples,TRUE,3,1,['check.yml'],TRUE,FALSE,FALSE
+github.com/apple/ml-cread,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/runpod/serverless-workers,TRUE,1,1,['CI_pylint.yml'],FALSE,FALSE,FALSE
+github.com/socketteer/transformer-tests,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/matt-seb-ho/WikiWhy,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kingoflolz/mesh-transformer-jax,TRUE,1,1,['lint_python.yml'],FALSE,TRUE,FALSE
+github.com/XiangLi1999/Diffusion-LM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dguo98/DiffPruning,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/HKUNLP/instructor-embedding,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/alps-lab/trojan-lm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/XinyuHua/pair-emnlp2020,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/guidance,TRUE,5,5,"['ci_tests.yml', 'pypi_upload.yml', 'server_tests.yml', 'unit_tests.yml', 'unit_tests_gpu.yml']",TRUE,TRUE,FALSE
+github.com/eric-mitchell/mend,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thisismattmiller/susan-b-anthony,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CarperAI/cheese,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Learning-and-Intelligent-Systems/llm4pddl,TRUE,1,1,['llm4pddl.yml'],FALSE,TRUE,FALSE
+github.com/wellecks/naturalprover,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/stanford-crfm/helm,TRUE,6,6,"['build-frontend.yml', 'frontend.yml', 'manage-python-cache.yml', 'python-publish.yml', 'test.yml', 'update-requirements.yml']",TRUE,FALSE,FALSE
+github.com/xiye17/SAT-LM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mireshghallah/mixmatch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LogIntelligence/NeuralLog,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dmg-illc/uid-dialogue,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Shigangli/Chimera,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yangkevin2/doc-story-generation,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/DS3Lab/Decentralized_FM_alpha,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tingofurro/keep_it_simple,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LinWeizheDragon/Knowledge-Aware-Graph-Enhanced-GPT-2-for-Dialogue-State-Tracking,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rashad101/SGPT-SPARQL-query-generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jzbjyb/FLARE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ebagdasa/propaganda_as_a_service,TRUE,8,7,"['doctests.yml', 'github-torch-hub.yml', 'model-templates.yml', 'release-conda.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml']",TRUE,TRUE,TRUE
+github.com/senthilkumarimuth/DocsGPT_Openai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HenryLittle/GloFE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/megagonlabs/coop,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/haotian-liu/transformers_llava,FALSE,0,0,[],TRUE,TRUE,TRUE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/XmYx/ainodes-pyside,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/utahnlp/x-fact,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/InvisibleSymbol/rocketwatch,TRUE,2,2,"['codeql-analysis.yml', 'docker-ci.yml']",FALSE,FALSE,FALSE
+github.com/KoboldAI/KoboldAI-Client,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/juletx/spatial-reasoning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/natural-instructions,TRUE,1,1,['blank.yml'],FALSE,FALSE,FALSE
+github.com/aypan17/machiavelli,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jeewoo1025/aiEducation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lxuechen/ml-swissknife,TRUE,2,1,['update_pypi.yml'],FALSE,TRUE,FALSE
+github.com/exe1023/DialEvalMetrics,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/dstoolkit-AOAIFlaskApp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alex-matton/causal-transformer-decoder,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/princeton-nlp/calm-textgame,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ArashHosseini/BERT-for-Unity,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jianwi/chatGpt2-demo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/liyucheng09/Selective_Context,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/giannisdaras/multilingual_robustness,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dangne/tmd,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/albertqjiang/Portal-to-ISAbelle,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jqhoogland/autoanki,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Heidelberg-NLP/MHKA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/OpenGVLab/Multi-Modality-Arena,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/WANGXinyiLinda/CMLE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TengdaHan/AutoAD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shawwn/ml-notes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NVIDIA/Megatron-LM,TRUE,1,1,['stale.yml'],TRUE,TRUE,FALSE
+github.com/taczin/SCAN_analogies,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/iree-org/iree-jax,TRUE,4,3,"['test_gpt2_model.yaml', 'test_head_and_bump.yaml', 'test_presubmit.yaml']",TRUE,TRUE,FALSE
+github.com/ShuyangCao/inference_head_masking,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/graphcore/examples,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/fangleai/Outline2Story,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigscience-workshop/metadata,TRUE,2,1,['test.yml'],TRUE,TRUE,TRUE
+github.com/Muennighoff/sgpt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/giannisdaras/smyrf,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/huggingface/datasets,TRUE,7,4,"['benchmarks.yaml', 'ci.yml', 'release-conda.yml', 'self-assign.yaml']",TRUE,TRUE,TRUE
+github.com/QData/TextAttack,TRUE,5,5,"['check-formatting.yml', 'codeql-analysis.yml', 'make-docs.yml', 'publish-to-pypi.yml', 'run-pytest.yml']",FALSE,TRUE,TRUE
+github.com/feng-yufei/NS-NLI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ludwig-ai/ludwig,TRUE,6,6,"['cherry-pick-release.yml', 'docker.yml', 'pytest.yml', 'pytest_slow.yml', 'test-results.yml', 'upload-pypi.yml']",TRUE,TRUE,FALSE
+github.com/thnkinbtfly/FAD-X,TRUE,3,3,"['adapter_docs_build.yml', 'pr_dependencies.yml', 'tests_torch.yml']",TRUE,TRUE,TRUE
+github.com/AeroScripts/HiddenEngrams,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Alrope123/rethinking-demonstrations,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/underneathall/pinferencia,TRUE,8,8,"['api-test.yml', 'codeql-analysis.yml', 'e2e-test.yml', 'install-built-package.yml', 'mkdocs.yml', 'python-app.yml', 'pytorch.yml', 'rebase.yml']",TRUE,FALSE,FALSE
+github.com/mlcommons/training,TRUE,1,1,['cla.yml'],FALSE,FALSE,FALSE
+github.com/ttumyche/MXQ-VAE_v1,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shawwn/openai-server,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/herobd/dessurt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Aarhus-Psychiatry-Research/timeseriesflattener,TRUE,9,9,"['benchmark.yml', 'check_for_rej.yml', 'dependabot_automerge.yml', 'documentation.yml', 'generate_paper_pdf.yml', 'main_test_and_release.yml', 'pre-commit.yml', 'stalebot.yml', 'static_type_checks.yml']",TRUE,FALSE,TRUE
+github.com/Yushi-Hu/IC-DST,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Byaidu/QChatBot-GPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigscience-workshop/multilingual-modeling,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/martiansideofthemoon/ai-detection-paraphrases,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/orensul/analogies_mining,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yk/gpt-4chan-public,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DandanGuo1993/VTCM-based-image-paragraph-caption,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bcbi-edu/p_eickhoff_SOCCER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mlflow/mlflow,TRUE,41,34,"['README.md', 'advice.yml', 'autoformat.js', 'autoformat.yml', 'cancel.yml', 'closing-pr.js', 'closing-pr.yml', 'cross-version-testing.md', 'cross-version-tests.yml', 'deployments.yml', 'dev-setup.yml', 'devcontainer.yml', 'examples.yml', 'gateway.yml', 'js.yml', 'labeling.yml', 'lint.yml', 'master.yml', 'preview-docs.yml', 'protect.js', 'protect.yml', 'protos.yml', 'push-images.yml', 'r.yml', 'recipe-template.yml', 'recipe.yml', 'release-note.yml', 'requirements.yml', 'rerun.yml', 'slow-tests.yml', 'stale.yml', 'team-review.yml', 'test-package-build.yml', 'warn-on-editing-requirements.yml']",TRUE,FALSE,FALSE
+github.com/textflint/textflint,TRUE,2,2,"['python-package.yml', 'python-publish.yml']",FALSE,TRUE,FALSE
+github.com/openai/openai-cookbook,TRUE,2,2,"['build-website.yaml', 'stale.yaml']",FALSE,FALSE,FALSE
+github.com/spellml/gpt2-imdb,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/flash-attention,TRUE,1,1,['publish.yml'],FALSE,TRUE,TRUE
+github.com/shrivastavadisha/repo_level_prompt_generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/deept-project/ChatLLaMA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/umass-ml4ed/mathGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/THU-BPM/CHEF,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/INK-USC/RiddleSense,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/The-Nirvana-Labs/SamvadAI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ivanmontero/autobot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/juan-csv/GPT3-text-summarization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Princeton-SysML/FILM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/davisyoshida/lorax,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/Tenggou/CCKS2020_task1_KBQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhongkaifu/Seq2SeqSharp,TRUE,1,1,['dotnet.yml'],FALSE,FALSE,FALSE
+github.com/zhangzhiqiangccm/NLP-project,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/IndoNLP/indonlg,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hlp-ai/miniChatGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HLTCHKUST/cqr4cqa,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bfortuner/higgins,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/MiuLab/PE-Study,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/keyonvafa/sequential-rationales,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/MM-REACT,TRUE,4,4,"['linkcheck.yml', 'lint.yml', 'release.yml', 'test.yml']",TRUE,FALSE,TRUE
+github.com/google/alligator2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/stanfordnlp/pdf-struct,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/katiehouse3/chatbot-with-personality,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ttumyche/MXQ-VAE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TencentARC/FLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/gentaiscool/few-shot-lm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rmokady/CLIP_prefix_caption,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sithu31296/image-captioning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tornikeo/gpt-4chan,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/INK-USC/NumerSense,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zjiehang/RanMASK,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hitomi-team/shimeji,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/AjayKhalsa/OpenAI-Therapy-Chatbot,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HKUNLP/icl-selective-annotation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/transfer-learning-conv-ai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wgryc/phasellm,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/jxhe/unify-parameter-efficient-tuning,TRUE,6,6,"['github-torch-hub.yml', 'model-templates.yml', 'release-conda.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml']",TRUE,TRUE,TRUE
+github.com/AlignmentResearch/tuned-lens,TRUE,3,3,"['pre-merge.yml', 'pre-release.yml', 'publish.yml']",TRUE,FALSE,FALSE
+github.com/intersun/CoDIR,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/qkaren/COLD_decoding,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/naver/gdc,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SelennLamson/AITextGenerator,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jefflai108/PARP-wav2vec-PyTorch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DachengLi1/MPCFormer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cortexlabs/nucleus,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/RubensZimbres/Repo-2021,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ravenprotocol/ravenverse,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lethaiq/shield-defend-adversarial-texts,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Edward-Sun/RECITE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NicolasMarino/langchain-experiments,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/insightbuilder/python_de_learners_data,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/whoisdsmith/AI-MTHRFCKR,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dzryk/cliptalk,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/guillaume-be/rust-tokenizers,TRUE,1,1,['build.yml'],FALSE,FALSE,FALSE
+github.com/Sea-Snell/Implicit-Language-Q-Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mireshghallah/style-pooling,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/FranxYao/RDP,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AutoTemp/fairseq-to-huggingface,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lunabrain-ai/lunabrain,TRUE,3,3,"['build.yaml', 'deployhugo.yml', 'kompose.yaml']",FALSE,FALSE,TRUE
+github.com/OSU-NLP-Group/QA4RE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lisasiyu/Cross-Align,FALSE,0,0,[],TRUE,TRUE,TRUE
+github.com/oughtinc/ice,TRUE,5,5,"['chromatic.yml', 'cla.yml', 'deploy-preview.yml', 'deploy-prod.yml', 'tests.yml']",TRUE,TRUE,FALSE
+github.com/pl8787/Match-Ignition,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sebastianGehrmann/CausalMediationAnalysis,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Mavenoid/prompt-hyperopt,TRUE,1,1,['tests.yml'],TRUE,TRUE,FALSE
+github.com/jiacheng-xu/sum-interpret,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ujj/obsidian-notes-meets-openai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Ascend/ModelZoo-PyTorch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hpcaitech/ColossalAI-Benchmark,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/i2cy/CodyBot2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhenwang9102/coherence-boosting,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/guangyliu/LatentOps,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/szhang42/alignment_attention,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/stanford-crfm/mistral,TRUE,2,2,"['pre-commit.yaml', 'run-tests.yaml']",TRUE,FALSE,TRUE
+github.com/FMInference/FlexGen,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/salesforce/jaxformer,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/facebookresearch/ketod,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cedrickchee/transformers-llama,FALSE,0,0,[],TRUE,TRUE,TRUE
+github.com/learnables/learn2learn,TRUE,2,2,"['codeql.yml', 'python_unittest.yaml']",FALSE,TRUE,TRUE
+github.com/goldfishh/chatgpt-tool-hub,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/cscosu/buckeyectf-2022-public,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hhaAndroid/awesome-mm-chat,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/adityabrahmankar/PDF-Chat,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/sunlab-osu/Understanding-CoT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ixaxaar/VardaGPT,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/kssteven418/BigLittleDecoder,TRUE,19,14,"['add-model-like.yml', 'build-docker-images.yml', 'build-past-ci-docker-images.yml', 'check_runner_status.yml', 'doctests.yml', 'model-templates.yml', 'release-conda.yml', 'self-nightly-scheduled.yml', 'self-past.yml', 'self-push-caller.yml', 'self-push.yml', 'self-scheduled.yml', 'stale.yml', 'update_metdata.yml']",TRUE,TRUE,TRUE
+github.com/timlzh/OPQChatBot-GPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HazyResearch/safari,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AI-secure/DecodingTrust,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/jonradoff/gptnews,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HugAILab/HugNLP,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/certik/fastGPT,TRUE,1,1,['CI.yml'],FALSE,FALSE,FALSE
+github.com/ysymyth/ec-nl,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/XiangLi1999/ContrastiveDecoding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DannyBoy5240/Langchain,FALSE,0,0,[],TRUE,FALSE,TRUE
+github.com/Aakash12980/Sentence-Simplification-using-BERT-GPT2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/smashed,TRUE,1,1,['ci.yml'],TRUE,FALSE,FALSE
+github.com/salesforce/CodeRL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/devjwsong/recosa-dialogue-generation-pytorch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/eclipse-opensmartclide/smartclide-smart-assistant,TRUE,2,2,"['codeql-analysis.yml', 'main.yml']",FALSE,FALSE,FALSE
+github.com/acikkaynak/deprem_openai_apis,TRUE,2,2,"['dev.yml', 'docker-image.yml']",TRUE,FALSE,TRUE
+github.com/maekawatoshiki/altius,TRUE,1,1,['ci.yml'],FALSE,FALSE,FALSE
+github.com/ahmedssabir/Belief-Revision-Score,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/antoninodimaggio/Hugging-Captions,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huashen218/convxai,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/MixingBoard,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SCLBD/BackdoorBench,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ivonajdenkoska/multimodal-meta-learn,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/google/belief-localization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rookiehb/zju_Course_Info,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/EveryInc/transcriptbot,TRUE,1,1,['codeql.yml'],FALSE,FALSE,FALSE
+github.com/NicholasCao/ChatBLOOM,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/EnflameTechnology/ModelZoo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dmatrix/misc-code,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AlpinDale/RPTQ-for-LLaMA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/e-bug/fine-grained-evals,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/princeton-nlp/ALCE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/axonn-ai/axonn,TRUE,3,3,"['ci.yaml', 'formatting.yaml', 'nvidia-rtx-3090-tests.yaml']",FALSE,TRUE,FALSE
+github.com/microsoft/mttl,TRUE,2,2,"['codeql.yml', 'tests.yml']",TRUE,FALSE,FALSE
+github.com/isLinXu/pangu-ax,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/unpackAI/unpackai,TRUE,3,3,"['run_cov.yml', 'run_pytest.yml', 'run_small_test.yml']",FALSE,TRUE,TRUE
+github.com/cccbook/py2cs,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nyu-dl/non-monotonic-self-terminating-lm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ForestsKing/TSF-Library,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bnsreenu/python_for_microscopists,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/x4nth055/pythoncode-tutorials,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/EleutherAI/lm-evaluation-harness,TRUE,3,3,"['new_tasks.yml', 'publish.yml', 'unit_tests.yml']",TRUE,TRUE,FALSE
+github.com/VITA-Group/BERT-Tickets,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thunlp/BkdAtk-LWS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kyegomez/Sophia,TRUE,1,1,['python-publish.yml'],TRUE,TRUE,FALSE
+github.com/TaoYang225/AD-DROP,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/torchy,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/amazon-science/masked-diffusion-lm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/embeddings-benchmark/mtebscripts,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/StonyBrookNLP/ircot,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/chijames/KERPLE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/konfuzio-ai/ai-comedy-club,TRUE,2,2,"['develop_own_bot.yml', 'main.yml']",FALSE,TRUE,FALSE
+github.com/aianaconda/PyTorch_BERT_NLP_BOOK,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/Unicoder,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/huggingface/datablations,FALSE,0,0,[],FALSE,FALSE,TRUE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/mindspore-courses/step_into_chatgpt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AlibabaResearch/DAMO-ConvAI,TRUE,1,1,['static.yml'],FALSE,FALSE,FALSE
+github.com/YyzHarry/SubpopBench,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/THU-KEG/COPEN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/paramansh/propaganda_detection,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/XingBowen714/DARER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AI-team-UoA/pyJedAI,TRUE,3,3,"['docker-image.yml', 'pypi-publish.yml', 'tests.yml']",TRUE,FALSE,FALSE
+github.com/THU-KEG/TWAG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dfdazac/blp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/YJiangcm/argument-impact-classification,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/davidjurgens/prosocial-conversation-forecasting,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/xfhelen/MMBench,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HLR/SpartQA-baselines,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/groq/mlagility,TRUE,5,5,"['publish-to-test-pypi.yml', 'test_azure.yml', 'test_gpu_mlagility.yml', 'test_mlagility.yml', 'test_onnxflow.yml']",TRUE,TRUE,FALSE
+github.com/alibaba/BladeDISC,TRUE,17,14,"['amd.yml', 'auto_rebase.yml', 'pytorch113_cpu.yml', 'pytorch113_gpu.yml', 'pytorch113_yitian.yml', 'pytorch200_cpu.yml', 'pytorch200_yitian.yml', 'pytorch201_gpu.yml', 'resuable_gpu_build.yml', 'tf250_cpu.yml', 'tf250_gpu.yml', 'tf280_yitian.yml', 'torchbench.yml', 'torchbench_cpu.yml']",FALSE,FALSE,FALSE
+github.com/CSLujunyu/Improving-Contextual-Language-Modelsfor-Response-Retrieval-in-Multi-Turn-Conversation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/RaleLee/Co-GAT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SymbioticLab/FedScale,TRUE,1,1,['python-app.yml'],FALSE,TRUE,FALSE
+github.com/KamyarGhajar/DistilledNeuralResponseRanker,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AlonEirew/CoreSearch,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/mhilmiasyrofi/AddressExtraction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rajbsk/kg-cruse,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PistonY/torch-toolbox,TRUE,2,2,"['CI.yml', 'Upload.yml']",FALSE,TRUE,FALSE
+github.com/DaoD/ConstraintGraph4NSO,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TheScript96/Semantic-code-search-using-BERT-and-transformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DarkGeekMS/Retratista,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/info-ruc/Web-20,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/izmailovpavel/spurious_feature_learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/catalyst-team/catalyst,TRUE,7,6,"['deploy_publish.yml', 'deploy_push.yml', 'dl_cpu.yml', 'dl_cpu_minimal.yml', 'greetings.yml', 'integrations.yml']",TRUE,TRUE,TRUE
+github.com/huaxiuyao/KGML,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nickyeolk/info_retrieve,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/mhilmiasyrofi/product-attribute-extraction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rit-git/Snippext_public,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wenliangdai/Modality-Transferable-MER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Eric3911/OpenAGI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/eXascaleInfolab/MARTA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/matalvepu/HKT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hellomuffin/exif-as-language,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nod-ai/SHARK,TRUE,3,3,"['gh-pages-releases.yml', 'nightly.yml', 'test-studio.yml']",TRUE,TRUE,FALSE
+github.com/NVIDIA/NeMo,TRUE,10,9,"['blossom-ci.yml', 'changelog-build.yml', 'cherry-pick-release-commit.yml', 'cicd-main.yml', 'close-inactive-issue-pr.yml', 'codeql.yml', 'gh-docs.yml', 'import-test.yml', 'labeler.yml']",TRUE,TRUE,FALSE
+github.com/snucclab/EPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TCtower/GlueFL,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/Nithin-Holla/MetaLifelongLanguage,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zzshou/RCAM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/deepset-ai/haystack,TRUE,20,20,"['benchmarks.yml', 'ci_metrics.yml', 'docker_release.yml', 'docstring_labeler.yml', 'e2e.yml', 'github_release.yml', 'labeler.yml', 'license_compliance.yml', 'linting.yml', 'linting_skipper.yml', 'minor_version_release.yml', 'project.yml', 'pypi_release.yml', 'readme_sync.yml', 'release_notes.yml', 'release_notes_skipper.yml', 'stale.yml', 'tests.yml', 'tests_skipper.yml', 'workflows_linting.yml']",TRUE,FALSE,FALSE
+github.com/alinlab/MASKER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jsvir/vad,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aws-samples/deep-learning-models,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/anyvoiceai/MassTTS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/GenetAsefa/RAILD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/affjljoo3581/CommonLit-Readability-Prize,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/monologg/hashtag-prediction-pytorch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/FedML-AI/FedML,TRUE,26,25,"['build_wheels_and_dev.yml', 'build_wheels_and_releases.yml', 'build_wheels_and_releases.yml-backup', 'build_wheels_and_test.yml', 'codeql-analysis.yml', 'full_e2e_test.yml-bakcup', 'pylint.yml', 'smoke_test_cross_device_mnn_server_linux.yml', 'smoke_test_cross_silo_fedavg_attack_linux.yml', 'smoke_test_cross_silo_fedavg_cdp_linux.yml', 'smoke_test_cross_silo_fedavg_defense_linux.yml', 'smoke_test_cross_silo_fedavg_ldp_linux.yml', 'smoke_test_cross_silo_ho_linux.yml', 'smoke_test_cross_silo_ho_win.yml', 'smoke_test_cross_silo_lightsecagg_linux.yml', 'smoke_test_cross_silo_lightsecagg_win.yml', 'smoke_test_flow_linux.yml', 'smoke_test_ml_engines_linux_jax.yml', 'smoke_test_ml_engines_linux_mxnet.yml', 'smoke_test_ml_engines_linux_tf.yml', 'smoke_test_ml_engines_win.yml', 'smoke_test_pip_cli_sp_linux.yml', 'smoke_test_pip_cli_sp_win.yml', 'smoke_test_security.yml', 'smoke_test_simulation_mpi_linux.yml']",FALSE,FALSE,FALSE
+github.com/asappresearch/abcd,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bbuing9/DND,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jionie/Tweet,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/JonasGeiping/cramming,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/prajjwal1/fluence,TRUE,2,2,"['main.yml', 'pip.yml']",FALSE,TRUE,TRUE
+github.com/IndoNLP/indonlu,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lemay-ai/lazyTextPredict,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/UCSB-NLP-Chang/Fairness-Reprogramming,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Nikhil-Xavier-DS/Hermes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HaoyeTianCoder/BATS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dmmiller612/bert-extractive-summarizer,TRUE,2,2,"['publish.yml', 'test.yml']",FALSE,TRUE,TRUE
+github.com/tshi04/AspDecSSCL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ChandlerGuan/blockskim,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/maxwalts/tinyv-c,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/saiboxx/chexray-diffusion,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/webis-de/acl22-identifying-the-human-values-behind-arguments,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/XinnuoXu/AugNLG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zyong812/VS3_CVPR23,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/camenduru/minigpt4,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yeungchenwa/OCR-SAM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/avinashsai/NILM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LZhenwen/MWP-BERT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sail-sg/ptp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/seung7361/RWKV-Pytorch,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cindyxinyiwang/emea,FALSE,0,0,[],TRUE,TRUE,TRUE
+github.com/Cheems-Seminar/grounded-segment-any-parts,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ChenWu98/unified-generative-zoo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kabirahuja2431/FineTuneBERT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/vessl-ai/examples,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/chahuja/aisle,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/max-ng/megaboost,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cvlab-columbia/zero123,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wonwooo/ModelForToeic,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/divya1211/math-expression-detection,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kev-zhao/life-after-bert,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/richservo/StableDiffusionGUI,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/ceshine/kaggle-quest,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/uoneway/KoBertSum,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yizhen-zhang/VG-Bert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/undertherain/benchmarker,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/cooelf/AwesomeMRC,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/renatoviolin/BERT-cpp-inference,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aws-samples/detecting-data-drift-in-nlp-using-amazon-sagemaker-custom-model-monitor,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ChenyunWu/DescribingTextures,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/oklen/PEVAE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/geekjuruo/ProbExpan,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nju-websoft/GeoCEQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Exploration-Lab/Rhetorical-Roles,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/trymyfilternow/StableDiffusion-SeamlessTileTextures,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/andyzoujm/autocast,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/suzgunmirac/prompt-and-rerank,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/stanford-futuredata/ColBERT,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/facebookresearch/BLINK,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/microsoft/Semi-supervised-learning,TRUE,3,3,"['blank.yml', 'issue.yml', 'stale.yml']",FALSE,TRUE,FALSE
+github.com/FuxiVirtualHuman/ABAW3_competition,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yangalan123/Amortized-Interpretability,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rsyed0/mquery,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/geocine/sd-easy-mode,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/convei-lab/BotsTalk,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rajpurkarlab/CXR-Report-Metric,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/virgiiim/EC_Reddit_CaseStudy,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/FireBERT-author/FireBERT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hwanheelee1993/KPQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ybgdgh/L3MVN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ielab/APR,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nlpcl-lab/dialog-eval-hard-negative,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/onesuper/HuggingFace-Datasets-Text-Quality-Analysis,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/enryu43/anifusion-stable-diffusion,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/ITKaven/RoBMRC,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/gmum/Zero-Time-Waste,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sungnyun/diffblender,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nlptechbook/BERTembeddings,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kabachuha/InfiNet,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/abhilash1910/BERTSimilarity,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/caisa-lab/sarcasm_detection,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thuiar/Robust-MSA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cvlab-columbia/viper,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jihyukkim-nlp/CollectiveKD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/octoml/Apple-M1-BERT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kinimod23/GRANT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/declare-lab/SAT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/bigheiniu/FakeNewsGen,FALSE,0,0,[],FALSE,TRUE,TRUE
+github.com/abhinavkashyap/domadapter,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/Wangpeiyi9979/Behind-the-Scenes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/TencentAILabHealthcare/UMIX,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mudabek/encoding-cxr-report-gen,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/intel/intel-extension-for-transformers,TRUE,27,21,"['README.md', 'build-container.yaml', 'chatbot-finetune-mpt-7b-chat-hpu.yml', 'chatbot-finetune-mpt-7b-chat.yml', 'chatbot-inference-llama-2-7b-chat-hf.yml', 'chatbot-inference-llama-2-7b_70b-chat-hf-hpu.yml', 'chatbot-inference-mpt-7b-chat-hpu.yml', 'chatbot-inference-mpt-7b-chat.yml', 'chatbot-test.yml', 'cpp-graph-test.yml', 'deploy-test.yml', 'llm-test.yml', 'optimize-test.yml', 'probot.yml', 'publish.yml', 'unit-test-engine.yml', 'unit-test-kernel.yml', 'unit-test-neuralchat.yml', 'unit-test-neuralspeed.yml', 'unit-test-optimize.yml', 'windows-test.yml']",FALSE,TRUE,FALSE
+github.com/alibaba/TinyNeuralNetwork,TRUE,3,3,"['full-test.yml', 'smoke-test.yml', 'unit-test.yml']",TRUE,TRUE,FALSE
+github.com/sweetpeach/Inspired,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Aasthaengg/GLIP-BLIP-Vision-Langauge-Obj-Det-VQA,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/goodbai-nlp/Sem-Dialogue,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yashlala/attentive-session-based-recs,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xichenpan/ARLDM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NIKL-Team-BC/NIKL-KLUE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/UCSD-AI4H/drugchat,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/drogozhang/LED,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/j-min/IterInpaint,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/sh0416/clrcmd,TRUE,1,1,['default.yaml'],TRUE,TRUE,FALSE
+github.com/MLH-Fellowship/Social-BERTerfly,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/open-mmlab/playground,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jdubpark/continual-bert,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/WenzhengZhang/EntQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/asappresearch/gold,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/C24IO/SageMaker-Inf1-Endpoints,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wllmzhu/G-VUE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/eturcan/emotion-infused,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tsosea2/eMLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/GewelsJI/MVLT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/vitouphy/usl_dialogue_metric,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/IBM/reinforced-dialog-system-for-learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/primeqa/primeqa,TRUE,2,2,"['primeqa-ci.yml', 'sphinx-doc-build.yml']",TRUE,TRUE,FALSE
+github.com/MaxDu17/TheBasics,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yseop/YseopLab,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/renll/SparseLT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/pytorch/ort,TRUE,3,3,"['api-ci.yml', 'doc-automation.yml', 'docker-automation.yml']",FALSE,FALSE,FALSE
+github.com/iQua/M-DGT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/THUDM/P-tuning-v2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DigitalPhonetics/adviser,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/KoreaMGLEE/Concept-based-curriculum-masking,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cambridgeltl/visual-spatial-reasoning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/oaqa/FlexNeuART,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/dos-lab/EOP,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/FiD,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/bananaml/serverless-template,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ASAP-AEG/MTL-Essay-Traits-Scoring,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hila-chefer/TargetCLIP,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shouldsee/catsmile,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/McGill-NLP/retriever-lm-reasoning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/olnayoung/Document_understanding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lucy3/context_semantic_axes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/harshildarji/Machine-Learning,TRUE,1,1,['codeql.yml'],FALSE,FALSE,FALSE
+github.com/martiansideofthemoon/hurdles-longform-qa,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dayyass/QaNER,TRUE,3,3,"['codecov.yml', 'linter.yml', 'tests.yml']",FALSE,TRUE,FALSE
+github.com/AMOOOMA/stocktwits-svm-nlp,TRUE,1,1,['python-app.yml'],FALSE,FALSE,FALSE
+github.com/j6mes/acl2021-factual-error-correction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CoderPat/learning-scaffold,TRUE,1,1,['pylint.yml'],FALSE,TRUE,FALSE
+github.com/prajjwal1/adaptive_transformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/declare-lab/MSA-Robustness,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/woodfrog/vse_infty,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Xiang-cd/unet-finetune,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/CurationCorp/curation-corpus,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yaqingwang/SpanNER,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ysmiura/ifcc,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/ShaneDeir/ConceptsDreambooth,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/microsoft/onnxruntime,TRUE,17,15,"['cffconvert.yml', 'codeql.yml', 'gradle-wrapper-validation.yml', 'labeler.yml', 'lint.yml', 'linux.yml', 'publish-c-apidocs.yml', 'publish-csharp-apidocs.yml', 'publish-gh-pages.yml', 'publish-java-apidocs.yml', 'publish-js-apidocs.yml', 'publish-python-apidocs.yml', 'skip-doc-change.yml.j2', 'stale.yml', 'windows.yml']",TRUE,TRUE,FALSE
+github.com/eth-cscs/tensorflow-training,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/danishpruthi/evidence-extraction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rohitgandikota/erasing,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/morningmoni/EDE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/qinhanmin2014/kaggle-Toxic-Comment-Classification-Challenge,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hackerfriendly/persyn,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/google-research/social_cascades,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mohit3011/AbuseAnalyzer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kenchan0226/control-sum-cmdp,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DexiangHong/MANet,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/copenlu/xai-benchmark,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CompVis/stable-diffusion,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/rafaljanwojcik/SentenceBERT_vs_SiameseLSTM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ShopRunner/octopod,TRUE,3,3,"['compliance-oss.yaml', 'pr.yaml', 'prod.yaml']",FALSE,TRUE,FALSE
+github.com/ellenmellon/DIALKI,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mdrakiburrahman/bert-app-harry-potter,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/soon-yau/upgpt,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/DreamEditBenchTeam/DreamEdit,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/xbdxwyh/mocose,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/RenzeLou/MORE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/SimXNS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zinengtang/TVLT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/airsplay/vokenization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/stanfordnlp/chirpycardinal,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dmollaaliod/bioasq8b-public,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dysoxor/GUILGET,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/VerdureChen/Co-BERT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yzhan238/CGExpan,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sail-sg/VGT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nbtin/vqa_web_demo,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/parasurama/raceBERT,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/rapidrabbit76/stable-diffusion-API,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aNOnWhyMooS/connectivity,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/priya-dwivedi/Deep-Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/adimajo/renard_joint,TRUE,1,1,['python-package.yml'],FALSE,TRUE,FALSE
+github.com/davidhalladay/LayoutTransformer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aws-samples/sagemaker-trainium-inferentia,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Jason-Qiu/EEG_Language_Alignment,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/invoke-ai/InvokeAI,TRUE,11,11,"['build-container.yml', 'build-installer.yml', 'clean-caches.yml', 'close-inactive-issues.yml', 'frontend-checks.yml', 'frontend-tests.yml', 'label-pr.yml', 'mkdocs-material.yml', 'python-checks.yml', 'python-tests.yml', 'release.yml']",TRUE,FALSE,TRUE
+github.com/CVxTz/ner_playground,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/QianRuan/histruct,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Linaqruf/kohya-trainer,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/namanphy/Controllable-Image-Captioning-App,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/epfml/interpret-lm-knowledge,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/KrishnaDN/speech-emotion-recognition-using-self-attention,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sovrasov/flops-counter.pytorch,TRUE,1,1,['main.yaml'],TRUE,FALSE,FALSE
+github.com/uclanlp/DeepKPG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xiaowu0162/low-resource-kpgen,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HKUST-KnowComp/BMGF-RoBERTa,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HabanaAI/Model-References,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zihaohe123/multi_task-nlp-bert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/dondongwon/CC_NCE_GENEA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/marvel2120/MsdBert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ruipeterpan/torch_profiler,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/haraldott/anomaly_detection_main,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/chuchun8/PStance,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Maitreyapatel/Few-Shot-Learning-A-Case-Study,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/caisa-lab/perspectivism-personalization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sbu-dsl/chapter-captor,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CompVis/latent-diffusion,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/nlpie-research/MiniALBERT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Zhilin123/personal_attributes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/phlong3105/mon,TRUE,1,1,['deploy_mkdocs.yml'],TRUE,FALSE,FALSE
+github.com/coastalcph/lex-glue,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/QC-LY/Prompt-Tuning-For-Sentiment-Classification,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Rubiksman78/CustomBB2,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/salesforce/coco-dst,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HumaticsLAB/POP-Mining-POtential-Performance,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HaoYang0123/BAIU,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Artistrazh/recaptcha_v2_solver,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/ART-Group-it/KERMIT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/GeorgeVern/smala,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tom-doerr/gpt_minus_one,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/skypilot-org/skypilot,TRUE,11,11,"['docker-nightly-build.yaml', 'format.yml', 'mypy-generic.yml', 'mypy.yml', 'pylint.yml', 'pypi-nightly-build.yml', 'pytest-generic.yml', 'pytest.yml', 'stale.yml', 'test-doc-build.yml', 'test-poetry-build.yml']",TRUE,TRUE,FALSE
+github.com/omidrohanian/metaphor_mwe,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/YintongHuo/ARCLIN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/microsoft/HaDes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/technion-cs-nlp/irm-for-nli,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yinanhe/videoChatGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/reddy-lab-code-research/CodeAttack,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/HHousen/DocSum,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cnunlp/Discourse-Self-Attention-For-Discourse-Element-Identification,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/renatoviolin/Semantic-Search,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/THU-BPM/PairSCL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/pachyderm/examples,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/tanmayb123/BertPreTraining,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/florianvonunold/DYME,FALSE,0,0,[],FALSE,FALSE,TRUE
+github.com/OpenMatch/COCO-DR,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/caleblu/influence-patterns,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/itsalicelee/DLCV-Fall-2021,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/allenai/flex,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/salesforce/PB-OVD,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/gsh199449/HeteroQA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xinyadu/grit_doc_event_entity,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Jithsaavvy/Sentiment-analysis-from-MLOps-paradigm,TRUE,3,1,['benchmark_and_test_model.yml'],FALSE,FALSE,TRUE
+github.com/DLYuanGod/ArtGPT-4,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ybai-nlp/MCLAS,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/duanyiqun/Brain-Diffusion,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/sougata-ub/personality-response-generation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Newbeeer/diffusion_restart_sampling,FALSE,0,0,[],FALSE,FALSE,FALSE
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/yfzhang114/Environment-Label-Smoothing,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yunqing-me/WatermarkDM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alldatacenter/alldata,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/rrruss/knowledge-base-chatter,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Galaxies99/oh-my-papers,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/IIGROUP/MIRTT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/FarimaFatahi/CompactIE,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/declare-lab/SANCL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mist-project/mist,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/xiaoxiaoheimei/SeqDialN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/VegB/Diagnose_VLN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/alexa/gravl-bert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/crushr/SpotFake_Implemetation,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wireless911/span-aste,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/leenw23/bert_ranker,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Sierkinhane/VisorGPT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/yixinL7/Refactoring-Summarization,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/hiyouga/Dual-Contrastive-Learning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lingjzhu/spoken_sent_embedding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Tencent/PatrickStar,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/TOWESSL/TOWESSL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/CEBaBing/CEBaB,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/mmf,TRUE,3,3,"['cpu_test.yaml', 'deploy_website.yaml', 'linter_test.yaml']",TRUE,TRUE,FALSE
+github.com/albertotrunk/UE5-Dream,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/MAEHCM/AET,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/intel/intel-extension-for-pytorch,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/feiline/storyteller-dialogue-system,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/facebookresearch/worldsheet,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/pandeynandancse/next_word_prediction_streamlit,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/warnikchow/BERT-for-Surprisal,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ayaka14732/tpu-starter,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/IBM/low-resource-text-classification-framework,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/xiaoqiangzhang203/Multi-modal-Sarcasm-Detection-ConAttSD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/drndr/multilabel-text-clf,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/approach0/pya0,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/intel/neural-compressor,TRUE,5,2,"['probot.yml', 'publish.yml']",TRUE,TRUE,FALSE
+github.com/microsoft/GenerativeImage2Text,TRUE,1,1,['test-build.yml'],FALSE,TRUE,FALSE
+github.com/NVlabs/affordance_diffusion,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Sreyasi/contextual_captions,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/IBM/NeSLET,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mishidemudong/layoutLM_seq_classification,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/NC0DER/KeyphraseExtraction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/DeepLearnXMU/IRSEG,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zmykevin/UVLP,FALSE,0,0,[],TRUE,TRUE,FALSE
+github.com/IBM/BadDiffusion,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LitLeo/TensorRT_Tutorial,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/tensorflow/models,TRUE,2,2,"['ci.yml', 'stale.yaml']",FALSE,FALSE,FALSE
+github.com/rapidsai/rapids-examples,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aisingapore/sgnlp,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/junyangwang0410/Knight,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PKU-ML/ContraNorm,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/aniketmaurya/stable_diffusion_inference,TRUE,1,1,['ci-testing.yml'],FALSE,TRUE,FALSE
+github.com/MrWater98/backdoors101,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nerdimite/bert-web-app,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/princeton-nlp/CoFiPruning,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/interactive-cookbook/ara,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/jasonseu/TSFormer,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/sstzal/DiffTalk,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/BrandonHanx/CompFashion,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/anonymous-sourcecode/Graph-Bert,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/SALT-NLP/Disfluency-Generation-and-Detection,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/as-ideas/headliner,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/CrazyBoyM/dreambooth-for-diffusion,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/xsc1234/Search-in-the-Chain,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/valentinhofmann/superbizarre,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ChaosCodes/ProPETL,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/graphcore/demo-in-a-box,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/kir-gadjello/extract_prompt,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/wolverinn/stable-diffusion-multi-user,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/LituRout/PSLD,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/talshaharabany/what-is-where-by-looking,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/ionnoant/DS8008-final-project,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Neutralzz/syntax_aware_local_attention,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/XavierXiao/Dreambooth-Stable-Diffusion,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/SforAiDl/KD_Lib,TRUE,3,3,"['codecov.yml', 'python-package-test.yml', 'python-package.yml']",FALSE,TRUE,TRUE
+github.com/webYFDT/hateful,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/inzva/emotion-recognition-drawings,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/guoxuxu/LOANT,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/zhaochen0110/LMLM,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/AdityaKane2001/ACL_WASSA,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/mlvlab/MELTR,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/thuiar/MIntRec,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shwetanlp/CHQ-Summ,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Vision-CAIR/MiniGPT-4,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/BioSystemsUM/biotmpy,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/julian-risch/PatentMatch-FARM,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/vespa-engine/sample-apps,TRUE,1,1,['feed.yml'],FALSE,FALSE,FALSE
+github.com/allenai/gpv-1,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/MIT-SPARK/llm_scene_understanding,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/shuyanzhou/docprompting,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/cshizhe/vil3dref,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/U-Alberta/KG-Type-Correction,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Tomiinek/Aargh,FALSE,0,0,[],FALSE,TRUE,FALSE
+github.com/zzbn12345/WHOSe_Heritage,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/Abhishek0697/Detection-of-Hate-Speech-in-Multimodal-Memes,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/lucy3/ingroup_lang,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/nyuolab/NYUTron,FALSE,0,0,[],TRUE,FALSE,FALSE
+github.com/RaleLee/DialogueGCN,FALSE,0,0,[],FALSE,FALSE,FALSE
+github.com/THU-BPM/SelfORE,FALSE,0,0,[],FALSE,FALSE,FALSE
