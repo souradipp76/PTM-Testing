@@ -21,7 +21,7 @@ g = Github(auth=auth)
 
 start = time.time()
 if __name__ == "__main__":
-    absolute_path = "D:\PeaTMOSS-Demos\PeaTMOSS_SAMPLE.db\PeaTMOSS_SAMPLE.db" #change this to an appropriate filepath for your directory
+    absolute_path = "PeaTMOSS-Demos\PeaTMOSS_SAMPLE.db\PeaTMOSS_SAMPLE.db" #change this to an appropriate filepath for your directory
     engine = sqlalchemy.create_engine(f"sqlite:///{absolute_path}")
 
     highly_downloaded = {}
