@@ -1,0 +1,4 @@
+repo url,has_workflow_files,Num_workflow_files,num_test_workflow_files,workflow_files_for_test,has_pyproject,has_setup,has_makefile
+github.com/sovrasov/flops-counter.pytorch,TRUE,1,1,['main.yaml'],TRUE,FALSE,FALSE
+github.com/microsoft/GenerativeImage2Text,TRUE,1,1,['test-build.yml'],FALSE,TRUE,FALSE
+github.com/aniketmaurya/stable_diffusion_inference,TRUE,1,1,['ci-testing.yml'],FALSE,TRUE,FALSE
