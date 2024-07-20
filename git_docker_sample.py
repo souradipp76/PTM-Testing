@@ -6,7 +6,7 @@ import docker
 
 # from git import Repo
 
-# auth = Auth.Token("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")
+# auth = Auth.Token("<token>") # Replace <token>
 # g = Github(auth=auth)
 
 # repo = g.get_repo("deepset-ai/haystack")
