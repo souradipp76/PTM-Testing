@@ -37,27 +37,27 @@ def iterate_nested_json_for_loop(json_obj, runs, env_vars, matrix):
             runs.append(value)    
 
 def replace_text(filename, text_to_search, replacement_text):
-    with fileinput.FileInput(filename, inplace=True, backup=".bak") as file:
+    print(filename)
+    with fileinput.input(filename, inplace=True, backup=".bak") as file:
         for line in file:
-            if line.find("pip") == -1:
-                print(line.replace(text_to_search, replacement_text), end='')
+            print(line.replace(text_to_search, replacement_text), end='')
 
-project_root = 'PTM-Testing/'
+project_root = os.getcwd()
 openai_api_key = os.environ["OPENAI_API_KEY"]
 
 # github_token = os.environ["GITHUB_TOKEN"]
 # auth = Auth.Token("{token}")
 # g = Github(auth=auth)
 
-# df = pd.read_csv("data/repo_with_workflow_v1_test.csv", header=0)
-df = pd.read_excel("data/final_repo_list_for_analysis.xlsx", header=0)
-secret_file = project_root+"gha.secrets"
+# df = pd.read_csv(os.path.join(project_root, "data/repo_with_workflow_v1_test.csv"), header=0)
+df = pd.read_excel(os.path.join(project_root,"data/final_repo_list_for_analysis.xlsx"), header=0)
+secret_file = os.path.join(project_root,"gha.secrets")
 
 e2e = 0
 integration = 0
 unit = 0
 
-use_act = False
+use_act = True
 
 for index, row in df.iterrows():
     has_workflow = row['has_workflow_files']
@@ -81,7 +81,7 @@ for index, row in df.iterrows():
 
     print(git_url)
 
-    repo_dir = "sample-repos/" + repo_name
+    repo_dir = os.path.join(os.path.join(project_root, "sample-repos"), repo_name)
 
     if not os.path.isdir(repo_dir):
         Repo.clone_from(git_url, repo_dir)
@@ -97,9 +97,9 @@ for index, row in df.iterrows():
     filtered_actions_file_list = list(filter(lambda x: any([y in x for y in file_pattern]), actions_file_list))
     print(filtered_actions_file_list)
 
-    dst = project_root+'coverage-data/'+repo_name
+    dst = os.path.join(os.path.join(project_root,'coverage-data'), repo_name)
     try:
-        os.makedirs(dst)
+        os.makedirs(dst, exist_ok=True)
     except OSError as error:
         print(error)
 
@@ -108,16 +108,18 @@ for index, row in df.iterrows():
         if use_act:
             ######## Using act #######
             try:
-                action_file = ".github/workflows/"+file
+                action_file = file
                 replace_text(action_file, "3.8", "3.10.11")
                 replace_text(action_file, "3.9", "3.10.11")
                 replace_text(action_file, "ubuntu-latest", "macos-latest")
                 replace_text(action_file, "pytest", "pytest --cov-report term --cov-report json --cov "+module_name)
-                subprocess.run(["act", "-W", action_file, "-P", "macos-latest=-self-hosted","--secret-file", secret_file])
-                os.chdir(os.path.join(project_root,repo_dir))
+                commands = ["act", "-W", action_file, "-P", "macos-latest=-self-hosted","--container-architecture", "linux/amd64","--secret-file", secret_file]
+                # commands = ["act", "-W", action_file, "--container-architecture", "linux/arm64","--secret-file", secret_file]
+                subprocess.run(commands)
+                os.chdir(repo_dir)
             except:
                 print(f"Error running {action_file}")
-                os.chdir(os.path.join(project_root,repo_dir))
+                os.chdir(repo_dir)
                 continue
 
         else:
@@ -265,10 +267,10 @@ for index, row in df.iterrows():
                 os.chdir(os.path.join(project_root,repo_dir))
                 continue
         
-        coverage_files = glob.glob(os.path.join(project_root,repo_dir)+'/**/coverage.json', recursive = True)
+        coverage_files = glob.glob(repo_dir+'/**/coverage.json', recursive = True)
         print(coverage_files)
         for file in coverage_files:
-            dst_file_name = file.replace(os.path.join(project_root,repo_dir)+"/", "").replace("/", "-")
+            dst_file_name = file.replace(repo_dir+"/", "").replace("/", "-")
             print(dst_file_name)
             shutil.copy(file, dst+ "/"+dst_file_name)  
             
